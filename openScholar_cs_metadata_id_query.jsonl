@@ -1,0 +1,100 @@
+{"id": 1, "query": "What publicly available datasets are typically used for evaluating type inference systems in python?"}
+{"id": 2, "query": "What are leading methods for generating hard examples of the boolean satisfiability problem, and what are their strengths and weaknesses?"}
+{"id": 3, "query": "What is unique k-sat and what theoretical results are known about it?"}
+{"id": 4, "query": "In recommendation systems, how are new methods that optimize diversity typically evaluated?"}
+{"id": 5, "query": "In robotics, what are the leading methods for learning terrain traversibility costs automatically from robot experience?"}
+{"id": 6, "query": "what are the most important open challenges in using neural networks in combination with PDE solvers for fluid simulation?"}
+{"id": 7, "query": "What data preprocessing steps are most important for point cloud datasets before performing surface reconstruction?"}
+{"id": 8, "query": "What are advantages and disadvantages of top methods for picking the right number of topics in topic modeling?"}
+{"id": 9, "query": "What is the known evidence for pervasiveness of gaming of citation metrics like citation count and h-index?"}
+{"id": 10, "query": "How have open-source publishing platforms impacted the global distribution of academic publishing?"}
+{"id": 11, "query": "How do large language models like ChatGPT impact the diversity of published scientific ideas?"}
+{"id": 12, "query": "What are good practices for detecting AI-generated texts in situations where false positives are extremely expensive?"}
+{"id": 13, "query": "How does in-context learning for LLMs differ from traditional machine learning model training?"}
+{"id": 14, "query": "Describe what is known about overfitting in in-context learning."}
+{"id": 15, "query": "How good are LLMs at solving traditional tabular ML datasets using ICL?"}
+{"id": 16, "query": "What insights can be obtained about developer behavior from their GitHub commits and pull requests?"}
+{"id": 17, "query": "What are the best practices to protect a software against vulnerabilities from third party libraries?"}
+{"id": 18, "query": "How do external events influence software projects? Explain with a few recent examples."}
+{"id": 19, "query": "What kinds of tools and data sources are availabe to serve the information needs of developers when responding to critical vulnerabilities?"}
+{"id": 20, "query": "Apart from preventing overfitting, are there any side effects (desirable or otherwise) of applying dropout in deep neural networks?"}
+{"id": 21, "query": "What are the advantages and limitations of applying bias mitigation algorithms during pre-processing, training and inference stages of a model?"}
+{"id": 22, "query": "How do different fairness metrics correlate with each other across various datasets and model architectures?"}
+{"id": 23, "query": "How does doping impact integrated circuit design?"}
+{"id": 24, "query": "What sampling techniques are used for yield estimation in automated electronic circuit design?"}
+{"id": 25, "query": "Compare the various algorithms for compressing trees in terms of computation complexity."}
+{"id": 26, "query": "What data structures are commonly used to solve the Range Minimum Query (RMQ) problem?"}
+{"id": 27, "query": "What datasets and methods are used to pre-train models on table specific tasks?"}
+{"id": 28, "query": "What are the main challenges in adapting transformer-based models for tabular data representation?"}
+{"id": 29, "query": "what are leading techniques for safe navigation in partially observable environments with moving obstacles?"}
+{"id": 30, "query": "how can RRT-based path planning be adapted to efficiently handle narrow pathways"}
+{"id": 31, "query": "what are the advantages and disadvantages of visiotactile, piezoelectric, trieboelectric tactile sensors for robots?"}
+{"id": 32, "query": "what kinds of challenges arise when trying to transfer robotics systems trained/designed in simulation to the real world?"}
+{"id": 33, "query": "is there any evidence that large language models can be effectively applied to robot planning tasks?"}
+{"id": 34, "query": "what are some datasets used for evaluating variable type inference for decompiled binaries?"}
+{"id": 35, "query": "how do post-quantum cryptography algorithms such as kyber/dilithium compare to corresponding non-quantum-safe methods in terms of performance and energy cost, and how could this be affected by future hardware optimizations?"}
+{"id": 36, "query": "how can software engineering process improvements be effectively measured in real-world settings?"}
+{"id": 37, "query": "what are the best recent techniques for text watermarking, what kinds of transformations are they robust to, and what transformations or attacks are they not robust against"}
+{"id": 38, "query": "what datasets are commonly used to evaluate SLAM methods"}
+{"id": 39, "query": "What are some practically-relevant properties of k-node subgraphs that can be counted in faster than cubic time in the size of the input graph?"}
+{"id": 40, "query": "The following paper focuses on a problem of counting the number of subgraphs in a graph that have certain properties.  What are the most significant downstream applications that either are or could be using these algorithms?  Concrete examples of the graph algorithms in use in real-world applications would be especially helpful.  https://arxiv.org/pdf/2407.06801"}
+{"id": 41, "query": "How have theories of distributed cognition informed the design of features in social computing systems?"}
+{"id": 42, "query": "How has literature discussed AI as a design material?"}
+{"id": 43, "query": "What are the key differences between participatory design and co-design?"}
+{"id": 44, "query": "What are some systems papers that conduct an observational study as the formative study instead of just interviews?"}
+{"id": 45, "query": "What principles of interactive machine teaching can be applied to interactively curating social media feeds?"}
+{"id": 46, "query": "Why do quadruped robots typically use 3 degrees of freedom for each leg?  What would be the disadvantages of 2 dof?"}
+{"id": 47, "query": "Can you recommend a suitable theoretical lens for qualitative research concerning robotics process automation (RPA) implementations?"}
+{"id": 48, "query": "What considerations are important for material selection in fabricating industrial robotic grippers?  What are the advantages and disadvantages of soft vs rigid gripper materials?"}
+{"id": 49, "query": "What are good benchmarks and evaluation strategies for comparing obstacle avoidance strategies in mobile robots?"}
+{"id": 50, "query": "What are some biologically-inspired robot path planning algorithms?"}
+{"id": 51, "query": "What are the most important practical applications of dextrous, in-hand robotic manipulation?"}
+{"id": 52, "query": "What kinds of coverage motion planning algorithms are effective for floor-cleaning robots?"}
+{"id": 53, "query": "What are metrics to mesures the quality of human robot communication?"}
+{"id": 54, "query": "What strategies are used to improve robustness and safety of quadrotor UAVs in extreme weather conditions?"}
+{"id": 55, "query": "What are the leading techniques for person-following robot navigation (which must track the person and potentially re-identify if occluded)?"}
+{"id": 56, "query": "What interfaces have researchers developed to help people perform behavioral evaluation of ML models, and how do they accelerate annotation efforts?"}
+{"id": 57, "query": "What theories from psychology are testable on a platform like mturk but haven't yet been studied in the HCI literature?"}
+{"id": 58, "query": "What interfaces have researchers developed for helping people optimize LLMs for a task, and what are the biggest remaining user problems?"}
+{"id": 59, "query": "How are user demonstrations represented in domain-specific-language programs and used for automation tasks?"}
+{"id": 60, "query": "What are existing methods to elicit user intents when an automation encounters ambiguity, especially in failure cases?"}
+{"id": 61, "query": "What are some principles for designing just-in-time interventions in a programming scenario?"}
+{"id": 62, "query": "Are there papers that use different formats of Q&A with the user to clarify intent and compose more complicated prompts to LLM?"}
+{"id": 63, "query": "What are some common UI designs for sense-making, information organization, and AI writing tools?"}
+{"id": 64, "query": "For different modulation types like MPSK, QPSK, and MQAM, I'm measuring the error rate but want to understand and measure the Error Vector Magnitude (EVM) more accurately. I'm using a general equation for all modulation types. Is this the right approach, and what should I expect from the EVM vs. Eb/No curve?"}
+{"id": 65, "query": "In auditory speech perception using iEEG, I will use Temporal Response Function (TRF) to determine correlations between stimulus characteristics (variations in the acoustic signal envelope, for example) and characteristics of recorded neuronal activity. I would like to fully understand the different stages of data processing carried out, as well as the reasoning and hypotheses behind them."}
+{"id": 66, "query": "With respect to signal processing which operator is more sensitive to noise detection, first order or second order and why?"}
+{"id": 67, "query": "What are different techniques in Non-linear, Non-stationary signal processing? Which one is much effective in view of Geophysical signals?"}
+{"id": 68, "query": "Which frequency characteristics of seismic P-wave can be used to distinguish it from other waves?"}
+{"id": 69, "query": "Is it possible to get frequency domain information in a fenquency band beyond the limitation of nyquist theory?"}
+{"id": 70, "query": "I want to measure the distance between two Bluetooth devices (A Master and a slave) using the corresponding RSSI value. Is there any algorithm or popular approach that maps RSSI values directly to distance?"}
+{"id": 71, "query": "Global Navigation Satellite Systems (GNSS) receivers can provide a reference clock signal known as Pulse-per-Second (PPS or 1-PPS). Is the PPS physically generated through a digitally-controlled oscillator (or line driver) whose offset is periodically re-initialized by the estimated clock bias (retrieved by means of PVT algorithms)?"}
+{"id": 72, "query": "The Nyquist-Shannon theorem provides an upper bound for the sampling period when designing a Kalman filter. Leaving apart the computational cost, are there any other reasons, e.g., noise-related issues, to set a lower bound for the sampling period? And, if so, is there an optimal value between these bounds?"}
+{"id": 73, "query": "What are the most important open challenges in Federated Learning?"}
+{"id": 74, "query": "What are the latest techniques for ensuring the reliability of a P2P storage system?"}
+{"id": 75, "query": "How has the citation graph been used to improve neural language models for scientific papers?"}
+{"id": 76, "query": "What performance metrics are typically used for evaluating differential privacy systems?"}
+{"id": 77, "query": "Have specialized approaches been developed for providing LLM assistance when people author SQL queries?"}
+{"id": 78, "query": "Have large langauge models been applied to the schema matching problem in databases and are they effective?"}
+{"id": 79, "query": "What are the leading approaches for anomoly detection in process mining?"}
+{"id": 80, "query": "How effective are language models at automatically generating textual descriptions of scientific concepts?"}
+{"id": 81, "query": "What are leading approaches for evaluating complex scientific question answering systems in NLP?"}
+{"id": 82, "query": "What is a good Ontology semantic similarity measure that considers multiple inheritance cases of concepts?"}
+{"id": 83, "query": "How is artificial intelligence being utilized to enhance the diagnosis and treatment of sleep apnea?"}
+{"id": 84, "query": "How can the integration of GIS spatial analysis techniques with economic modeling improve the accuracy and effectiveness of environmental policy ?"}
+{"id": 85, "query": "How can I use an hybridization of ontology and machine learning for text summarization ?"}
+{"id": 86, "query": "Suggest some ways in which precise positioning and context-aware networking can be achieved in 6G mobile communication?"}
+{"id": 87, "query": "What data analysis tool are the most accurate for an appraisal of a mixed methodology research study?"}
+{"id": 88, "query": "What is the difference between FMRI datasets and MRI datasets in terms of data analysis?"}
+{"id": 89, "query": "How does the addition of XAI techniques such as SHAP or LIME impact model interpretability in complex machine learning models ?"}
+{"id": 90, "query": "What data link layer problems can cause to termination of a connection?"}
+{"id": 91, "query": "How can question generation be used to mitigate hallucination in LLMs?"}
+{"id": 92, "query": "What are some of the challenges associated with creating a training dataset for question answering in scientific domains? Describe some recent methods that try to overcome these challenges."}
+{"id": 93, "query": "What are some tasks where fine tuning smaller models is beneficial over using LLMs?"}
+{"id": 94, "query": "During pre-training, why is the transformer embedding layer initialized randomly, rather than with pre-trained embeddings from existing models?"}
+{"id": 95, "query": "How does multiplexing enhance data transmission efficiency in communication networks?"}
+{"id": 96, "query": "How does the tree covering technique differ in its application to ordinal trees versus binary trees?"}
+{"id": 97, "query": "What are the leading approaches to automatic scientific paper review generation and what are their strengths and weaknesses?"}
+{"id": 98, "query": "Does active learning work well when fine-tuning large language models?"}
+{"id": 99, "query": "What recent results have been obtained on the Sherali-Adams hierarchy ?"}
+{"id": 100, "query": "What are the leading thoughts about how to teach computer science to college students in the age of generative AI?"}

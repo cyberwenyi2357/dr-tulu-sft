@@ -8,6 +8,9 @@
   "alpaca_zh_demo": {
     "file_name": "alpaca_zh_demo.json"
   },
+  "query_clarification_alpaca": {
+    "file_name": "query_clarification_alpaca.jsonl"
+  },
   "glaive_toolcall_en_demo": {
     "file_name": "glaive_toolcall_en_demo.json",
     "formatting": "sharegpt",
