@@ -1,0 +1,152 @@
+[
+  {
+    "id": "174539437530047534-s3",
+    "query": "What are the additional benefits of preoperative manometry beyond its role in determining the surgical approach?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437127211152-s28",
+    "query": "How do former collegiate athletes compare to college students in terms of health-related quality of life and injury prevalence?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438851149556-s0",
+    "query": "How does the Ultimatum Game reflect social decision-making processes in neuroeconomics research?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437631204798-s5",
+    "query": "How do specific morphological traits contribute to thermotolerance and heat adaptation in livestock breeds?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438341872248-s11",
+    "query": "How is copper nanoparticle toxicity characterized, and what factors affect the level of toxicity?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437937521252-s4",
+    "query": "How do endotoxin concentrations typically compare between fine and coarse particulate matter fractions?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436120034116-s6",
+    "query": "How does the presentation and recognition of lung involvement in CMV pneumonia differ between patients?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"clinical setting/patient population (e.g., transplant recipients)\"], \"follow_up_questions\": [\"What patient population or clinical context are you asking about for CMV pneumonia?\"]}"
+  },
+  {
+    "id": "174539438039013978-s19",
+    "query": "What is the relationship between high B7-H3 expression and disease progression as well as clinical outcomes?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436321113481-s11",
+    "query": "What evidence supports neurofilament light chain (NfL) levels in cerebrospinal fluid (CSF) as a biomarker for brain injury severity and symptom duration?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437026127266-s0",
+    "query": "What are the biomechanical advantages of cephalomedullary nails compared to extramedullary devices, and how do dual-screw cephalomedullary nails perform mechanically relative to single-screw systems?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437733121188-s3",
+    "query": "How does explicit instruction in textual and interpersonal metadiscourse types affect reading comprehension?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437631203609-s2",
+    "query": "How do the expression patterns of Heat Shock Proteins illustrate the complex response to cold stress?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004616306-s12",
+    "query": "How does the interaction between FeO and SiO₂ influence the formation and characteristics of deposits?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539439157214154-s0",
+    "query": "How have the World Health Organization’s guidelines for initiating antiretroviral therapy (ART) in children changed, and what global targets do these guidelines aim to support?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437631194279-s13",
+    "query": "What experimental methods have been employed to study changes in the glymphatic system?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437127214842-s14",
+    "query": "How do differences in training volume between failure and non-failure groups influence muscular strength gains?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438241475791-s20",
+    "query": "What types of input data are needed to accurately estimate carbon stocks using spatial decision support tools?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437937523372-s10",
+    "query": "What qualitative and quantitative methods have been used to assess thermal comfort?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438444021882-s15",
+    "query": "What types and severities of adverse events have been observed following the third and fourth doses of the SARS-CoV-2 vaccine?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437127211056-s15",
+    "query": "How does blocking muscle afferents pharmacologically affect the perception of effort?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436421858192-s8",
+    "query": "How does the timing of sample collection affect the diagnostic accuracy of lncRNA biomarkers?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435918238869-s28",
+    "query": "What are the effects of combining Cimicifuga racemosa with clomiphene on pregnancy rates and hormone levels in women with PCOS?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436321298798-s12",
+    "query": "How does the incidence of imminent fractures differ depending on the site of the initial (index) fracture?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438750004608-s26",
+    "query": "What is semantic enrichment in BIM files, and what practical advantages does it offer?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437630965908-s10",
+    "query": "What is the evidence on the relationship between hypertension and serum Gd-IgA1 levels in patients?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438544147896-s8",
+    "query": "What is the effect of telbivudine treatment on newborn HBsAg seropositivity compared to control groups?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436119931241-s12",
+    "query": "How are costing methods classified, and what are the key distinctions that define each classification?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438444022753-s8",
+    "query": "What clinical and research evidence supports the protective effect of vaccination against the development of PIMS-TS?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436825193069-s0",
+    "query": "How do the mechanisms of vitamin B12 deficiency contribute to elevated homocysteine levels and the associated health risks?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436724624983-s4",
+    "query": "What evidence supports the accuracy of PET/CT in tumor volume delineation and its impact on treatment planning and prognosis?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  }
+]

@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "174539438342051097-s2",
+    "query_without_term": "How effective are targeted therapies in improving overall survival for patients with pancreatic cancer?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539439157206428-s9",
+    "query_without_term": "How effective are various concentrations and formulations of an antiseptic in inactivating a virus and reducing viral load in clinical settings?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific antiseptic agent or class\", \"target virus or viral family\"], \"follow_up_questions\": [\"Which antiseptic or antiseptic class are you asking about?\", \"What virus or viral family should I focus on?\"]}"
+  },
+  {
+    "id": "174539439257318810-s8",
+    "query_without_term": "How has the prevalence of a disease among tuberculosis patients varied across different regions of a major African region, and how has it changed over time?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific African region\"], \"follow_up_questions\": [\"Which African region would you like me to focus on?\"]}"
+  },
+  {
+    "id": "174539436825243673-s18",
+    "query_without_term": "What are the weight loss effects and clinical significance of different dosages of a herbal extract as observed in randomized controlled trials?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific herbal extract name\"], \"follow_up_questions\": [\"Which herbal extract are you referring to?\"]}"
+  },
+  {
+    "id": "174539437429693280-s11",
+    "query_without_term": "What evidence supports the anti-inflammatory and cartilage-protective effects of these supplements in the treatment of osteoarthritis?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific supplements being referred to\"], \"follow_up_questions\": [\"Which supplements are you asking about?\"]}"
+  },
+  {
+    "id": "174539437530234196-s8",
+    "query_without_term": "What clinical evidence and study designs support the effectiveness of a treatment in treating pain associated with diabetic neuropathy?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438038821810-s2",
+    "query_without_term": "What are the main chemical constituents found in the leaves of this plant, and how do their proportions differ among various analyses?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"plant species\"], \"follow_up_questions\": [\"Which plant species are you referring to?\"]}"
+  },
+  {
+    "id": "174539437937629404-s30",
+    "query_without_term": "What effects do plant compounds from a berry species have on skin symptoms and inflammatory responses in eczema models?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436622906030-s2",
+    "query_without_term": "What clinical and laboratory features have been identified as significant risk factors for leukemic transformation in patients with a blood disorder?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437127119112-s1",
+    "query_without_term": "How does a medication activate a specific receptor, and what are the subsequent physiological effects of this activation?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific medication/receptor pair\"], \"follow_up_questions\": [\"Which medication and receptor would you like me to focus on?\"]}"
+  },
+  {
+    "id": "174539437631204449-s3",
+    "query_without_term": "How does this fatty acid affect sperm production and sperm quality in livestock animals?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific fatty acid being referred to\"], \"follow_up_questions\": [\"Which fatty acid are you asking about?\"]}"
+  },
+  {
+    "id": "174539437937625669-s4",
+    "query_without_term": "What antioxidant activities have been consistently demonstrated by in vitro studies on extracts of a plant’s pods and seeds?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"plant species\"], \"follow_up_questions\": [\"Which plant species are you referring to?\"]}"
+  },
+  {
+    "id": "253447259-s34",
+    "query_without_term": "How has this translation-based method been adapted and evaluated for grammatical error correction tasks?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"the specific translation-based method being referred to\"], \"follow_up_questions\": [\"Which translation-based method are you asking about?\"]}"
+  },
+  {
+    "id": "174539436925663287-s4",
+    "query_without_term": "How do prior smoking intensity and the duration since quitting affect the risk of developing a type of age-related eye disease in ex-smokers?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436321318484-s13",
+    "query_without_term": "What clinical evidence is available regarding the effectiveness and limitations of parathyroid hormone treatments in patients with a genetic disorder?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific genetic disorder\"], \"follow_up_questions\": [\"Which genetic disorder are you referring to?\"]}"
+  },
+  {
+    "id": "174539436623009160-s2",
+    "query_without_term": "How is this drug metabolized in the liver, what are its main metabolites, and how does the enzyme polymorphism influence its analgesic effectiveness?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"drug name\"], \"follow_up_questions\": [\"Which drug are you asking about?\"]}"
+  },
+  {
+    "id": "174539436119944408-s10",
+    "query_without_term": "How does the protein modulate the effects of proinflammatory cytokines, and what evidence supports its potential as a therapeutic agent?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"protein name\"], \"follow_up_questions\": [\"Which protein are you referring to?\"]}"
+  },
+  {
+    "id": "174539438341859391-s6",
+    "query_without_term": "What evidence supports the existence of genetic similarities between bacterial strains found in companion animals and humans?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437631199711-s1",
+    "query_without_term": "What types of studies and outcome measures have been used to evaluate the efficacy of a treatment in patients with a type of brain bleeding?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific brain bleeding type (e.g., intracerebral hemorrhage)\"], \"follow_up_questions\": [\"Which type of brain bleeding are you referring to?\"]}"
+  },
+  {
+    "id": "174539436421853232-s56",
+    "query_without_term": "What are the genetic causes and molecular mechanisms underlying this syndrome types 1 and 2?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"syndrome name\"], \"follow_up_questions\": [\"Which syndrome are you referring to?\"]}"
+  },
+  {
+    "id": "174539437026247207-s17",
+    "query_without_term": "What variations exist in the surgical instruments, suture materials, and number of sutures used in this type of procedure?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific procedure type\"], \"follow_up_questions\": [\"What kind of procedure are you asking about?\"]}"
+  },
+  {
+    "id": "174539437328318561-s7",
+    "query_without_term": "What toxic effects of a drug on motor function have been demonstrated in preclinical studies, and what evidence supports these findings?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437530076447-s8",
+    "query_without_term": "How do remission rates for type 2 diabetes vary five years after different weight-loss surgeries in patients with a body mass index of 25 or higher?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437429499965-s10",
+    "query_without_term": "Which small regulatory RNAs have been consistently found to be differentially expressed in granulosa and cumulus cells of women with a hormonal disorder, and what potential roles do they play?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437428953786-s0",
+    "query_without_term": "How do the protocols of the 6-minute walk test and the incremental shuttle walk test differ when assessing exercise capacity in patients with chronic obstructive pulmonary disease?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435206938904-s11",
+    "query_without_term": "How does the basic neighborhood search algorithm systematically explore neighborhoods to improve solutions?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436321377139-s3",
+    "query_without_term": "How does maternal micronutrient restriction affect the expression of genes such as a steroid-metabolizing enzyme and leptin that are involved in fat cell development in offspring?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "17442130108598-s11",
+    "query_without_term": "What are the essential components and processes involved in training an object detection framework for object detection?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539434801976958-s42",
+    "query_without_term": "What makes a country’s mandatory adoption of international accounting standards a particularly valuable case for studying its impact on private firms and the broader economy?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437429497336-s5",
+    "query_without_term": "How do elevated hormone levels and their regulation by other hormones contribute to follicular arrest in a common hormonal disorder?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436724096109-s0",
+    "query_without_term": "What are the key morphological characteristics of this plant, including details about its stems, leaves, flowers, and fruit?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"plant species or taxonomic identity\"], \"follow_up_questions\": [\"Which plant species or group are you asking about?\"]}"
+  },
+  {
+    "id": "174539438444025809-s24",
+    "query_without_term": "What reasons do parents in a country in the Middle East give for delaying or missing childhood vaccinations?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific country in the Middle East\"], \"follow_up_questions\": [\"Which country in the Middle East would you like me to focus on?\"]}"
+  },
+  {
+    "id": "174539438342052713-s6",
+    "query_without_term": "What evidence supports the antiviral efficacy of this compound against different dengue virus type 2 strains, and how does its activity vary among these strains?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437026249928-s17",
+    "query_without_term": "How do hormone and tumor marker levels help predict lateral lymph node metastasis in thyroid cancer?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437429693301-s16",
+    "query_without_term": "What risk factors should clinicians consider before starting these inhibitors in patients with refractory rheumatoid arthritis?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific class of inhibitors (e.g., JAK inhibitors)\"], \"follow_up_questions\": [\"Which class of inhibitors are you referring to?\"]}"
+  },
+  {
+    "id": "174539438852224294-s9",
+    "query_without_term": "Which tasks does the test include to assess working memory, and what evidence demonstrates their reliability?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539439157215781-s18",
+    "query_without_term": "What evidence is there from research in a region that links financial difficulties to an increased risk of depression?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"region\"], \"follow_up_questions\": [\"Which region or geographic area are you interested in?\"]}"
+  },
+  {
+    "id": "174539437630757840-s6",
+    "query_without_term": "How do the dosage and frequency of administration influence its effectiveness in reducing infective larvae in animals?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific anthelmintic drug or class\"], \"follow_up_questions\": [\"Which anthelmintic drug or class are you asking about?\"]}"
+  },
+  {
+    "id": "174539437530666997-s15",
+    "query_without_term": "What does clinical research indicate about the efficacy and safety of a supplement as an adjunctive treatment targeting oxidative stress in severe malaria?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438038821203-s8",
+    "query_without_term": "How does this compound exert its insecticidal effects, and what evidence supports its impact on insect physiology and mortality?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"the specific compound being referred to\"], \"follow_up_questions\": [\"Which compound are you asking about?\"]}"
+  },
+  {
+    "id": "174539438444014051-s4",
+    "query_without_term": "What nucleic acid amplification techniques are commonly used to diagnose a viral infection in neonates, and how do their sensitivities compare?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438342202148-s7",
+    "query_without_term": "What are the predominant patterns of fungal infections observed in Cuban patients, and what are the key epidemiological factors associated with these infections?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436220701027-s9",
+    "query_without_term": "Which genes are known to be associated with a type of inherited intellectual disability, and what are the functions of their encoded proteins as well as the clinical effects of mutations in these genes?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437429494678-s8",
+    "query_without_term": "How does the clinical pregnancy rate vary among patients with a hormonal condition undergoing in vitro fertilization/intracytoplasmic sperm injection with different serum AMH levels?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438038826320-s5",
+    "query_without_term": "What types of chemical compounds have been identified in the various parts of the plant, and can you provide specific examples of these compounds?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"plant species or genus\"], \"follow_up_questions\": [\"Which plant species or genus are you referring to?\"]}"
+  },
+  {
+    "id": "174539438341707057-s1",
+    "query_without_term": "How do the combination of physical and molecular characteristics enhance the identification of a type of algae compared to closely related species?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436622838200-s3",
+    "query_without_term": "How have clinical trials assessed the safety, tolerability, and effectiveness of this therapy in patients with acute leukemia at different remission stages?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"therapy being assessed\"], \"follow_up_questions\": [\"Which specific therapy or treatment approach are you asking about?\"]}"
+  },
+  {
+    "id": "174539437937236173-s8",
+    "query_without_term": "What are the comprehensive benefits of different probiotic strains in alleviating weaning stress and promoting growth in pigs?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437428861976-s12",
+    "query_without_term": "How do different virus types, particularly two specific types, affect disease severity and clinical outcomes in juvenile-onset recurrent respiratory papillomatosis?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435612598555-s3",
+    "query_without_term": "How do two welding methods compare in terms of energy density, deposition rate, and the characteristics of the resulting weld bead?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific welding methods to compare\"], \"follow_up_questions\": [\"Which two welding methods would you like me to compare?\"]}"
+  },
+  {
+    "id": "174539438444025387-s15",
+    "query_without_term": "How reliable is healthcare workers' recall of their personal medical history in accurately determining their virus serostatus, based on available diagnostic performance metrics?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436925474575-s1",
+    "query_without_term": "How do this immune checkpoint and its ligands contribute to immune tolerance and regulate T-cell responses?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"immune checkpoint\"], \"follow_up_questions\": [\"Which immune checkpoint are you referring to?\"]}"
+  },
+  {
+    "id": "174539436220251450-s12",
+    "query_without_term": "What effects does the use of a blood-derived treatment have on new bone formation and soft tissue area in maxillary sinus floor elevation surgery?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436220391582-s6",
+    "query_without_term": "What criteria are used to define the success and failure of crowns placed using a dental technique in retrospective studies of primary molars?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437630961307-s11",
+    "query_without_term": "What do studies collectively indicate about the effect of co-administration on the timing of drug clearance and its associated liver toxicity?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438039017259-s14",
+    "query_without_term": "How does muscle loss influence the rate of speech syllable repetitions per second compared to individuals without muscle loss?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"muscle loss type (e.g., sarcopenia)\", \"specific speech motor system affected by the muscle loss\"], \"follow_up_questions\": [\"What kind of muscle loss are you referring to?\", \"Which part of the speech production system is affected by the muscle loss?\"]}"
+  },
+  {
+    "id": "174539436421919400-s0",
+    "query_without_term": "How do genetic variations in a gene affect an individual’s susceptibility to metabolic syndrome and its related components?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436220454349-s20",
+    "query_without_term": "What are the main challenges and limitations associated with using anti-inflammatory biologics in the treatment of skin sarcoidosis?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435816837866-s14",
+    "query_without_term": "In what ways do nanocrystals and post-drawing improve the structural and mechanical properties of regenerated silk fibroin fibers?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437530251189-s29",
+    "query_without_term": "How does a drug affect macrophage polarization, and what are the underlying mechanisms involved?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436925666604-s6",
+    "query_without_term": "What does the current clinical evidence indicate about the effectiveness of beta blockers in the treatment of a specific eye condition?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific eye condition\"], \"follow_up_questions\": [\"Which eye condition are you asking about?\"]}"
+  },
+  {
+    "id": "174539438037958327-s4",
+    "query_without_term": "What are the key morphological characteristics and ecological roles of this fungus, including its growth habits and preferred substrates?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"fungus species or genus\"], \"follow_up_questions\": [\"Which fungus are you referring to?\"]}"
+  },
+  {
+    "id": "174539436825001004-s13",
+    "query_without_term": "How does adherence to a healthy diet impact BMI, body weight, and waist circumference in patients with fatty liver disease based on findings from multiple studies?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436925471668-s3",
+    "query_without_term": "What is the impact of gene depletion on tumor progression, metastasis, and survival in in vivo breast cancer models?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438342287795-s2",
+    "query_without_term": "How do varying concentrations of preservatives influence the growth and aflatoxin production of mold species?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438039018437-s15",
+    "query_without_term": "How do joint stem cell treatments compare in effectiveness to gel injections or joint fluid removal for managing jaw joint disorders?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438139986223-s6",
+    "query_without_term": "How does soil acidification resulting from crop cultivation impact the abundance of beneficial and pathogenic soil microorganisms?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435410624071-s13",
+    "query_without_term": "What characteristics of generic gas sensors make them particularly well-suited for various IoT applications?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437631175994-s1",
+    "query_without_term": "How does the severity of sleep apnea affect the risk of stroke and related mortality independently of obesity?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438139972945-s13",
+    "query_without_term": "How do different methods for estimating groundwater recharge compare in terms of their values and spatial applicability within the river basin?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435714017536-s28",
+    "query_without_term": "What are the primary marine forest projects currently being conducted in a country in East Asia, and what are their main objectives?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific East Asian country\"], \"follow_up_questions\": [\"Which country in East Asia would you like me to focus on?\"]}"
+  },
+  {
+    "id": "174539435004079157-s1",
+    "query_without_term": "How do metal species on catalyst surfaces affect the generation of hydroxyl radicals and the overall efficiency of the catalytic wet peroxide oxidation process?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438341852699-s12",
+    "query_without_term": "How do detoxification enzymes contribute to the detoxification and excretion of harmful compounds in fungi?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437428914622-s3",
+    "query_without_term": "How does using combinations of soluble markers enhance the diagnosis of a type of cancer compared to relying on individual biomarkers?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436522331872-s5",
+    "query_without_term": "How is minimally invasive surgical removal of a scar defect typically performed, and what methods and suture techniques are used for closing the defect?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539434801976958-s19",
+    "query_without_term": "How do empirical studies explain the conditions under which mandatory international financial reporting standards adoption leads to improvements in stock market liquidity and reductions in the cost of capital?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437026507526-s1",
+    "query_without_term": "How do the pharmacological properties of this opioid contribute to its improved respiratory safety profile in opioid therapy?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific opioid being referred to\"], \"follow_up_questions\": [\"Which opioid are you asking about?\"]}"
+  },
+  {
+    "id": "174539439157209064-s8",
+    "query_without_term": "How does private health insurance enrollment influence the utilization of inpatient and outpatient healthcare services across different populations in a country?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539439157207091-s11",
+    "query_without_term": "What does the evidence say about the effectiveness of combining a gentle exercise practice with antidepressants compared to using antidepressants alone for reducing depressive symptoms?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436925478609-s30",
+    "query_without_term": "What role does a signaling molecule play in promoting tumorigenic signaling, cell proliferation, and angiogenesis in a type of brain cancer?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539439257313482-s11",
+    "query_without_term": "Which regions and countries saw widespread acceptance and implementation of home delivery services for HIV treatment during the COVID-19 pandemic?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437126892890-s1",
+    "query_without_term": "What clinical methods and observations are recommended for assessing tongue function and mobility in infants suspected of having tongue-tie?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437937492715-s2",
+    "query_without_term": "How do temperature anomalies and warming trends vary by elevation and season in the mountain range?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436320968551-s9",
+    "query_without_term": "How does neonatal birth weight differ between mothers treated with various maximum oral dosages of a medication and those treated with insulin?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"the specific medication being compared to insulin\"], \"follow_up_questions\": [\"Which medication are you comparing to insulin in this context?\"]}"
+  },
+  {
+    "id": "174539438444021802-s11",
+    "query_without_term": "How do the risks of adverse events compare between two COVID-19 vaccines across various symptoms?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436320991586-s18",
+    "query_without_term": "What clinical evidence suggests that the risk of lactic acidosis with this medication may be lower than previously thought in patients with liver or kidney disease?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539434903328921-s3",
+    "query_without_term": "How are synthetic selective polymers synthesized and applied for the selective detection of a target compound and its metabolites in urine samples?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004612210-s6",
+    "query_without_term": "What are the key methodologies and parameters for controlling the crystal shape of a calcium salt to achieve spherical morphology in industrial crystallization?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436321338327-s18",
+    "query_without_term": "What study designs and measurement considerations are important for improving research on bone health in patients with a genetic condition?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific genetic condition\"], \"follow_up_questions\": [\"Which genetic condition are you referring to?\"]}"
+  },
+  {
+    "id": "174539437936816144-s9",
+    "query_without_term": "How do different allelic variations of the starch-related gene affect amylose content in rice grains, and what is the molecular basis underlying these differences?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437630752695-s6",
+    "query_without_term": "How does temperature quantitatively influence the development time and shedding patterns of parasite larvae within their snail intermediate hosts?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436220392496-s3",
+    "query_without_term": "What are the typical clinical features observed in this type of cyst cases affecting molars?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific type of cyst affecting molars\"], \"follow_up_questions\": [\"Which specific type of cyst are you referring to in the context of molars?\"]}"
+  },
+  {
+    "id": "174539438037951078-s9",
+    "query_without_term": "How is a synthetic infectious background prepared for laboratory experiments involving plant-pathogenic fungi?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436119946295-s5",
+    "query_without_term": "How do mobile genetic elements facilitate the horizontal transfer of antimicrobial resistance genes among bacteria?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436119933747-s0",
+    "query_without_term": "How is a specific enzyme induced during COVID-19, and what role does it play in tryptophan catabolism?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437328282572-s5",
+    "query_without_term": "What are the main socio-economic factors influencing hazardous drinking patterns among an indigenous group?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific indigenous group or population\"], \"follow_up_questions\": [\"Which indigenous group or population are you referring to?\"]}"
+  },
+  {
+    "id": "174539436320967206-s9",
+    "query_without_term": "How does adjusting for smoking, alcohol use, and BMI/obesity affect the observed relationship between a type of diabetes and the risk of developing oral cancer?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435612736217-s6",
+    "query_without_term": "What are the key drawbacks of using waterjet and abrasive waterjet machining processes for a metal alloy, especially in terms of surface quality and machining precision?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437127064274-s9",
+    "query_without_term": "How do the two main photochemical mechanisms in photodynamic therapy differ in their generation of reactive oxygen species and their effects on inducing cell death?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435003851632-s6",
+    "query_without_term": "How do different doping strategies enhance the photocatalytic activity of a semiconductor oxide under visible light?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539439157209813-s5",
+    "query_without_term": "How is bad smell severity in patients with a skin condition related to their quality of life and sexual health?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438444028587-s6",
+    "query_without_term": "What are the current recommendations for vaccination in patients with immunodeficiencies or those receiving immunosuppressive therapy?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436018305813-s16",
+    "query_without_term": "What are the major flavonoid compounds found in hibiscus flowers, and what are their associated biological properties?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436724621507-s1",
+    "query_without_term": "How are systemic therapies and local treatments combined to effectively manage metastatic skin cancer brain metastases?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437127065917-s14",
+    "query_without_term": "How do fibrin-derived nasal packing materials, such as a fibrin-based sealant and a branded packing product, compare to other packing materials in terms of postoperative outcomes like crusting, granulation, and endoscopic scores?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437026502927-s7",
+    "query_without_term": "What conservative treatments are typically used to alleviate nerve pain, and how effective are these approaches?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436320711866-s11",
+    "query_without_term": "How is social validity evaluated and reported in behavior analysis intervention studies conducted in a country in South America?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438852228534-s1",
+    "query_without_term": "How does a social theory conceptualize the core of an identity, and what processes contribute to its formation?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific social theory\"], \"follow_up_questions\": [\"Which social theory are you referring to?\"]}"
+  },
+  {
+    "id": "174539438342053908-s2",
+    "query_without_term": "How does the loss of a tumor suppressor function caused by mutations lead to the activation of oncogenic beta-catenin in colorectal cancer?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004472763-s10",
+    "query_without_term": "How does 3D DIC leverage photogrammetry and triangulation principles to measure the deformation of objects?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004944270-s27",
+    "query_without_term": "How do the structural alignment and crystalline quality of vertically aligned nanorods contribute to their enhanced photocatalytic efficiency?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438140618225-s9",
+    "query_without_term": "How does heating chemically transform a clay mineral in coal waste, and what phase changes are observed as the temperature increases?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438443887555-s5",
+    "query_without_term": "How does the European Union's program, along with its educational tools, foster energy literacy by engaging students?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438443288518-s2",
+    "query_without_term": "What are the biological mechanisms that regulate NOS activity in blood cells?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437937624164-s6",
+    "query_without_term": "How do enzymatic hydrolysis and in vitro digestion affect the antioxidant activities of plant protein hydrolysates and peptides?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004978965-s2",
+    "query_without_term": "What properties of a natural polymer and its chemical modifications contribute to its effectiveness as an organic carrier for enzymes?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435512233056-s11",
+    "query_without_term": "What are the fundamental principles and step-by-step procedures involved in the layered manufacturing technique?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438139987582-s5",
+    "query_without_term": "How do different pH levels affect the types and structures of uranium surface complexes formed on silica?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "17442127938665-s12",
+    "query_without_term": "How does the inequality coefficient measure long-tailedness, and why is it effective for comparing datasets?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437429696699-s1",
+    "query_without_term": "What are the main benefits of partial knee replacement compared to total knee replacement with respect to anatomical preservation and postoperative recovery?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437026497326-s48",
+    "query_without_term": "What do clinical studies reveal about the effectiveness and challenges of nerve stimulation in treating chronic migraines and cluster headaches?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "17442129413340-s57",
+    "query_without_term": "How do modern 3D reconstruction systems handle outliers in feature correspondences during the feature matching stage?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438039013672-s7",
+    "query_without_term": "What role does a protein play in detoxifying hematomas and protecting brain tissue following a brain hemorrhage?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437937625485-s13",
+    "query_without_term": "How do key parameters and the choice of solvent influence the efficiency and optimization of a microwave-assisted extraction method for recovering phenolic compounds?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435713604755-s19",
+    "query_without_term": "What are the differences between least significant bit substitution and least significant bit matching watermarking methods in terms of their embedding processes, watermarking capacity, and impact on image noise?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435206931517-s18",
+    "query_without_term": "What are the key methodologies, datasets, and accuracy results reported in studies on online handwritten character recognition?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436925667845-s6",
+    "query_without_term": "How do timing and patient selection influence the efficacy and safety of clot-busting treatments in acute central retinal artery occlusion (CRAO)?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437937493484-s3",
+    "query_without_term": "How do crop growth models help in understanding the interactions between environmental factors and crop yields under climate change conditions in a country?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438342059413-s2",
+    "query_without_term": "How do the distinct stages and key enzymes of the mevalonate pathway contribute to the biosynthesis of fungal triterpenoids, particularly a specific triterpenoid acid?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539439157207091-s10",
+    "query_without_term": "How do blinding practices influence the assessment of performance bias in randomized trials investigating a generic exercise practice for depressive symptoms?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438241025042-s3",
+    "query_without_term": "How does PCK connect to the content-specific challenges in teaching catchment hydrology?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435206938369-s68",
+    "query_without_term": "What are some commonly used topic models designed for short text analysis, particularly for extracting themes from social media data?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436220564248-s9",
+    "query_without_term": "What factors make the use of cosmetic injectables highly operator-dependent, and why do they share similar side effect profiles?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435612594407-s33",
+    "query_without_term": "How does surface spectroscopy facilitate the quantitative analysis of the elemental composition on fiber surfaces?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435815404995-s18",
+    "query_without_term": "What are the best practices for pre-processing satellite data to enhance the accuracy of land cover classification?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436724601161-s4",
+    "query_without_term": "How does the sensitivity of imaging for detecting recurrent prostate cancer change according to different serum PSA levels?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437631197601-s10",
+    "query_without_term": "How effective and safe is a blood-clotting factor concentrate for reversing the INR and managing outcomes in patients with intracranial hemorrhage related to oral anticoagulant therapy?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436724629358-s47",
+    "query_without_term": "Why is it important to measure cortisol using interference-free assays during treatment with steroid synthesis inhibitors?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438140616292-s14",
+    "query_without_term": "How do temperature and pressure affect the process of mineral carbonation and the efficiency of carbon dioxide storage in basalt rocks?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438750009992-s2",
+    "query_without_term": "What materials are commonly used for reinforcement fibers in fiber-reinforced polymer composites, in what forms are these fibers available, and what are the typical manufacturing methods for producing fiber-reinforced polymer composite parts?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437530446348-s14",
+    "query_without_term": "How do progression-free survival and overall survival compare between patients with one type of lymphoma and those with another type of lymphoma?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437937525869-s2",
+    "query_without_term": "How does exposure to fine particulate matter contribute to immune system imbalances and airway inflammation in asthma?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539439257888073-s2",
+    "query_without_term": "How do the four sexual response phases provide a comprehensive explanation of sexual functioning in both males and females?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific sexual response model/framework being referenced\"], \"follow_up_questions\": [\"Which specific model or framework of sexual response are you asking about?\"]}"
+  },
+  {
+    "id": "174539439157206755-s12",
+    "query_without_term": "How can the correlations between low sodium levels, oxygenation index, and interleukin-6 levels guide treatment decisions in non-ICU COVID-19 patients?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437631041242-s13",
+    "query_without_term": "What do recent studies reveal about the impact of insulin resistance on heart blood flow restoration, plaque vulnerability, and mortality outcomes in patients undergoing a heart procedure?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438038829770-s7",
+    "query_without_term": "How have genetic modifications involving enzyme and related genes been used to improve the stability and content of soybean oil?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436220216493-s5",
+    "query_without_term": "How does the risk of fractures compare between fixed partial dentures and crowns over different follow-up periods?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436623653587-s19",
+    "query_without_term": "How do levels of a soluble blood protein vary with disease severity and between different patient groups according to recent research and meta-analyses?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437127116065-s12",
+    "query_without_term": "What clinical evidence supports the use of intravenous (IV) medication for both the prevention and treatment of postoperative nausea and vomiting (PONV)?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436724542125-s8",
+    "query_without_term": "What are the clinical advantages of using virtual reality modeling to assess complex spatial relationships during brain surgery planning?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438851835317-s5",
+    "query_without_term": "How do learners’ first-language literacy levels affect their ability to transfer sound-to-spelling correspondence knowledge when learning English spelling?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438342202489-s18",
+    "query_without_term": "What evidence demonstrates the effectiveness of a beneficial fungus in protecting grapevine pruning wounds from a plant pathogen under both nursery and field conditions?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437429448510-s12",
+    "query_without_term": "How do clinical pregnancy rates and live birth rates vary with a growth factor supplementation when considering different study types and dosage groups?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436119945736-s13",
+    "query_without_term": "How do mobile genetic elements influence the genetic diversity and host specificity of bacterial strains?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438341748534-s7",
+    "query_without_term": "What ecological and morphological traits of a common wetland plant contribute to its suitability for use in horizontal flow constructed wetlands?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436421952087-s1",
+    "query_without_term": "How do hormone receptors regulate the activity of the stress-response axis to restore homeostasis following stress?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436622975231-s1",
+    "query_without_term": "What emergency treatments are used for severe refractory low platelet disorder (ITP), and how effective are they in rapidly increasing platelet counts?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435714019504-s14",
+    "query_without_term": "What are the advantages of using a numerical method over a simplified mass method when simulating cable behavior?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436622912388-s12",
+    "query_without_term": "How do meta-analyses compare the bleeding risks between patients with liver disease treated with oral blood thinners and those receiving conventional blood thinners across various bleeding types?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437631188340-s13",
+    "query_without_term": "How do differences in measurement procedures between two blood pressure measurement methods influence ankle-brachial index (ABI) values?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438039016260-s2",
+    "query_without_term": "What are the four main functional regions of cell-surface receptors used in engineered immune cells, and what are the specific components and roles of each region?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436925471199-s10",
+    "query_without_term": "What are the main advantages and limitations of a CT-based colon imaging test in colorectal cancer screening?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004612102-s17",
+    "query_without_term": "Which mechanical properties are improved in composite materials reinforced with a low addition of carbon nanotubes, and how are these improvements typically measured?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437936903230-s13",
+    "query_without_term": "How do mutant plants affect both fodder biomass and quality traits in pearl millet?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437227868661-s10",
+    "query_without_term": "How do methodological shortcomings related to dosage and study design contribute to bias in studies evaluating mineral treatment in newborns?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437127087405-s18",
+    "query_without_term": "How does the oxidation of semiconductor quantum dots lead to cytotoxic effects through the release of metal ions?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435308106055-s7",
+    "query_without_term": "How does substituting an element in a ceramic material affect its dielectric properties and phase transition behavior?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific ceramic material family or class\"], \"follow_up_questions\": [\"Which type of ceramic material are you referring to?\"]}"
+  },
+  {
+    "id": "174539437937525717-s10",
+    "query_without_term": "How have neural networks improved the efficiency and accuracy of estimating tropical cyclone intensity from satellite data?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435714011388-s4",
+    "query_without_term": "How does IFEP enhance fuel efficiency and operational performance in marine vessels?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435410624784-s16",
+    "query_without_term": "How do crystal orientation and surface-to-volume ratio affect the gas sensitivity of metal oxide semiconductors?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438443882596-s2",
+    "query_without_term": "What are the main challenges posed by high investment costs and regulatory issues in the implementation of small local power grids?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004611846-s15",
+    "query_without_term": "How do organic solvent additives affect the nucleation, growth, morphology, and stability of calcium carbonate particles during precipitation?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437026245270-s9",
+    "query_without_term": "What initial clinical evidence supports the use of a light-based therapy for treating cancer and precancerous lesions of the larynx?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436623655841-s11",
+    "query_without_term": "How are gold nanoparticles utilized in enzyme-stimulated metallization for the visual detection of viruses, and what benefits does this method offer compared to traditional enzyme-linked immunosorbent assays?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004972091-s15",
+    "query_without_term": "How does chemical activation with a base improve the adsorption capacity of a mineral adsorbent for biogas upgrading?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436018302680-s13",
+    "query_without_term": "What are the traditional medicinal uses and known chemical compositions of the leaves and aerial parts of the Himalayan aromatic plants and a related plant species?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific Himalayan aromatic plant species\"], \"follow_up_questions\": [\"Which particular Himalayan aromatic plant species are you interested in?\"]}"
+  },
+  {
+    "id": "174539438341874103-s1",
+    "query_without_term": "What are the essential factors and methods for effectively controlling temperature and moisture during the production of fermented rice?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436724621976-s9",
+    "query_without_term": "How are imaging studies evaluated to detect abnormal radiotracer uptake in studies of infectious diseases?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438241202911-s6",
+    "query_without_term": "What are the key future research priorities to enhance our understanding and application of a type of flies, particularly one species, for the biological control of slugs?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific fly species\"], \"follow_up_questions\": [\"Which fly species are you referring to?\"]}"
+  },
+  {
+    "id": "174539435206413133-s8",
+    "query_without_term": "How do membrane pore size and adsorption mechanisms affect the efficiency of ultrafiltration and microfiltration membranes in removing endocrine-disrupting compounds?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539439157205027-s9",
+    "query_without_term": "How do randomized controlled trials and meta-analyses assess the effect of plasma treatment on the hospital discharge time of patients with COVID-19?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004944204-s5",
+    "query_without_term": "Which microscopic and spectroscopic techniques are commonly employed to assess the dispersion and agglomeration of carbon-based materials in polymer composites?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437328328045-s16",
+    "query_without_term": "How is challenging behavior evaluated and analyzed in clinical studies comparing a medication to placebo in children with intellectual disabilities?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437429695161-s6",
+    "query_without_term": "In which clinical situations is imaging particularly useful for the evaluation of carpal tunnel syndrome?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436320832000-s15",
+    "query_without_term": "What effects does a bile acid have on glucose metabolism and cardiovascular risk markers in patients with fatty liver disease according to randomized controlled trials?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436321333927-s9",
+    "query_without_term": "What are the physiological and biochemical mechanisms through which exercise improves blood sugar control in patients with type 2 diabetes?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437127064155-s6",
+    "query_without_term": "How does incorporating metal-based nanoparticles affect the antimicrobial properties and shear bond strength of modified orthodontic adhesives over time?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436018505428-s0",
+    "query_without_term": "What perioperative considerations are essential for safe anaesthetic management in patients undergoing surgery for a congenital chest wall and limb condition?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435714015578-s16",
+    "query_without_term": "How do oceanic waves affect sea surface temperature anomalies and influence monsoon circulation in the tropical Indian and Pacific Oceans?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437026247435-s14",
+    "query_without_term": "What are the main clinical advantages and safety considerations of using nebulized medication to manage post-surgery bleeding?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific medication class or drug being nebulized\", \"type of surgery or surgical context\"], \"follow_up_questions\": [\"Which specific medication or drug class are you referring to when you mention nebulized medication?\", \"What kind of surgery or clinical scenario are you asking about in relation to post-surgery bleeding?\"]}"
+  },
+  {
+    "id": "174539436724548004-s6",
+    "query_without_term": "How do clinical history, nerve tests, and imaging contribute together to the diagnosis of wrist nerve compression syndrome?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436320718561-s17",
+    "query_without_term": "How do differences in the use of filler words, such as \"uh\" and \"um,\" indicate specific pragmatic impairments in individuals with a developmental disorder?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436622985949-s11",
+    "query_without_term": "What are self-assembled monolayers, and why are they beneficial for blood-compatible surface engineering?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436320938035-s4",
+    "query_without_term": "How does communication by healthcare providers specifically impact adherence among adolescents with type 1 diabetes?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539439257318411-s1",
+    "query_without_term": "How does alcohol use before sex affect HIV risk differently among married and unmarried men in a country in Asia?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435917586453-s9",
+    "query_without_term": "How do various surface-active treatments affect the dissipation of polycyclic aromatic hydrocarbons in contaminated soils over time?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437630705253-s14",
+    "query_without_term": "How do different body measurements illustrate the impact of a parasitic infection on child growth and malnutrition?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435612597104-s4",
+    "query_without_term": "What are the main components and operating principles of the plasma-enhanced chemical vapor deposition technique used for depositing titanium dioxide films?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438444014393-s2",
+    "query_without_term": "How do current cancer screening guidelines vary based on a woman's age and HIV status, particularly regarding testing intervals and screening methods?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436925666623-s7",
+    "query_without_term": "How effective and safe is a light-activated therapy with a drug for treating abnormal blood vessel growth near the optic nerve, especially when the lesion involves the optic nerve?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438443884775-s14",
+    "query_without_term": "How can multiple cells in microfluidic fuel cells be configured and stacked to enhance power output and efficiency?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539439157214094-s0",
+    "query_without_term": "What factors contribute to the variations and inconsistencies in the prevalence of intestinal parasites among food handlers in a country?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437026468873-s14",
+    "query_without_term": "How do randomized controlled trials assess the effectiveness of a treatment in reducing nerve pain over periods of 1, 2, and 4 weeks?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004074494-s6",
+    "query_without_term": "How does the presence of carbon dioxide affect product yields and catalytic efficiency during oxidation reactions over metal carbonate catalysts?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 30,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_without_term": 0.0,
+    "diff": 1.0,
+    "query": "I need a detailed introduction about the principle of a type of autoencoder. Please give me the most information as you can.",
+    "clarified_query": "I need a detailed introduction about the principle of Topological Autoencoder. Please give me the most information as you can."
+  },
+  {
+    "id": 13,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_without_term": 0.09090909090909091,
+    "diff": 0.9090909090909091,
+    "query": "Can you find me papers that discuss a generic training method for aligning language models?",
+    "clarified_query": "Can you find me papers that discuss expert iteration for aligning language models?"
+  },
+  {
+    "id": 69,
+    "ingredient_recall_original": 0.8157894736842105,
+    "ingredient_recall_without_term": 0.0,
+    "diff": 0.8157894736842105,
+    "query": "Please do some research on articles related to bones and 3D representations.",
+    "clarified_query": "Please do some research on articles related to bones and 3D Gaussians."
+  },
+  {
+    "id": 94,
+    "ingredient_recall_original": 0.7666666666666666,
+    "ingredient_recall_without_term": 0.0,
+    "diff": 0.7666666666666666,
+    "query": "what are the recent works on task representations?",
+    "clarified_query": "what are the recent works on task vectors?"
+  },
+  {
+    "id": 64,
+    "ingredient_recall_original": 0.8846153846153847,
+    "ingredient_recall_without_term": 0.23076923076923078,
+    "diff": 0.653846153846154,
+    "query": "Find papers on how weights evolve through training in a neural network model",
+    "clarified_query": "Find papers on how weight evolve through training in a transformer"
+  },
+  {
+    "id": 68,
+    "ingredient_recall_original": 0.9285714285714285,
+    "ingredient_recall_without_term": 0.3571428571428571,
+    "diff": 0.5714285714285714,
+    "query": "Large language model to synthesize a material recipe for a quantum dot light-emitting diode",
+    "clarified_query": "LLM to synthesize material recipe for quantum dot led"
+  },
+  {
+    "id": 61,
+    "ingredient_recall_original": 0.6923076923076923,
+    "ingredient_recall_without_term": 0.2692307692307693,
+    "diff": 0.423076923076923,
+    "query": "When performing the algorithm how does the solution use previous time step solutions to advance the solution in time?",
+    "clarified_query": "When performing the HHL algorithm how does the solution use previous time step solutions to advance the solution in time?"
+  },
+  {
+    "id": 37,
+    "ingredient_recall_original": 0.9333333333333333,
+    "ingredient_recall_without_term": 0.6333333333333333,
+    "diff": 0.30000000000000004,
+    "query": "If you are a researcher currently thinking about an approach to whether neural network models can be utilized to solve the problem of ranking fusion, where the information that can be obtained is hierarchically supervised information; are there any articles in the field of information retrieval where neural network models have been used to solve or discuss this problem?",
+    "clarified_query": "If you are a researcher currently thinking about an approach to whether transformers can be utilized to solve the problem of ranking fusion, where the information that can be obtained is hierarchically supervised information; are there any articles in the field of information retrieval where transformers have been used to solve or discuss this problem?"
+  },
+  {
+    "id": 90,
+    "ingredient_recall_original": 0.9423076923076924,
+    "ingredient_recall_without_term": 0.7115384615384616,
+    "diff": 0.23076923076923084,
+    "query": "papers about the influence of model size on text classification tasks",
+    "clarified_query": "papers about the influence of model size on Sentiment analysis tasks"
+  },
+  {
+    "id": 17,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_without_term": 0.8,
+    "diff": 0.19999999999999996,
+    "query": "what are the current risk-based propagation models in internet of things security?",
+    "clarified_query": "what are the current \"Adaptive Risk-Based Propagation Models\" in internet of things security?"
+  },
+  {
+    "id": 8,
+    "ingredient_recall_original": 0.9500000000000001,
+    "ingredient_recall_without_term": 0.8,
+    "diff": 0.15000000000000002,
+    "query": "Which 3D point cloud rendering methods exist that output mesh representations?",
+    "clarified_query": "Which 3D Gaussian Splatting methods exist that output mesh representations?"
+  },
+  {
+    "id": 18,
+    "ingredient_recall_original": 0.9375,
+    "ingredient_recall_without_term": 0.8125,
+    "diff": 0.125,
+    "query": "Please find papers on models and computer simulation of magnetic memory devices and related materials",
+    "clarified_query": "Please find papers on models and computer simulation of MRAM devices and related materials"
+  }
+]

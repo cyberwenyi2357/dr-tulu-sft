@@ -1,0 +1,86 @@
+[
+  {
+    "id": 32,
+    "ingredient_recall_original": 0.8181818181818182,
+    "ingredient_recall_without_term": 0.9545454545454546,
+    "diff": -0.13636363636363635,
+    "query": "literature review on synthetic table data generation"
+  },
+  {
+    "id": 14,
+    "ingredient_recall_original": 0.84375,
+    "ingredient_recall_without_term": 0.96875,
+    "diff": -0.125,
+    "query": "How do people in the field of natural language processing assess the organization of generated documents?"
+  },
+  {
+    "id": 31,
+    "ingredient_recall_original": 0.875,
+    "ingredient_recall_without_term": 1.0,
+    "diff": -0.125,
+    "query": "what training sets have been shown to be useful for benchmark tasks like mmlu, math, or arc-challenge?"
+  },
+  {
+    "id": 76,
+    "ingredient_recall_original": 0.875,
+    "ingredient_recall_without_term": 1.0,
+    "diff": -0.125,
+    "query": "What are the latest deep learning techniques and models being used in image analysis for corrosion detection, classification and segmentation"
+  },
+  {
+    "id": 23,
+    "ingredient_recall_original": 0.7941176470588235,
+    "ingredient_recall_without_term": 0.9117647058823529,
+    "diff": -0.11764705882352944,
+    "query": "find papers on topic about ambiguity and language model agent"
+  },
+  {
+    "id": 56,
+    "ingredient_recall_original": 0.9,
+    "ingredient_recall_without_term": 1.0,
+    "diff": -0.09999999999999998,
+    "query": "Summarise for me how a container orchestration system works and its difference to containers"
+  },
+  {
+    "id": 40,
+    "ingredient_recall_original": 0.9090909090909092,
+    "ingredient_recall_without_term": 1.0,
+    "diff": -0.09090909090909083,
+    "query": "Research on realizing highly compressible variational autoencoder by creating variational autoencoder that further compresses and restores the latent vector of variational autoencoder"
+  },
+  {
+    "id": 59,
+    "ingredient_recall_original": 0.9500000000000001,
+    "ingredient_recall_without_term": 1.0,
+    "diff": -0.04999999999999993,
+    "query": "Can you suggest research that optimizes each agent's role in a multi-agent large language model?"
+  },
+  {
+    "id": 97,
+    "ingredient_recall_original": 0.8214285714285714,
+    "ingredient_recall_without_term": 0.8571428571428571,
+    "diff": -0.0357142857142857,
+    "query": "how are most neutral atom two-qubit gates performed?"
+  },
+  {
+    "id": 38,
+    "ingredient_recall_original": 0.6333333333333333,
+    "ingredient_recall_without_term": 0.6666666666666666,
+    "diff": -0.033333333333333326,
+    "query": "Can large language models learn new information when trained on supervised fine-tuning?"
+  },
+  {
+    "id": 41,
+    "ingredient_recall_original": 0.7777777777777777,
+    "ingredient_recall_without_term": 0.8055555555555555,
+    "diff": -0.02777777777777779,
+    "query": "what are the latest methods to deal with time-based reasoning in large language models?"
+  },
+  {
+    "id": 51,
+    "ingredient_recall_original": 0.5263157894736842,
+    "ingredient_recall_without_term": 0.5526315789473684,
+    "diff": -0.02631578947368418,
+    "query": "I want to learn about the historical development of large language models and provide me with relevant papers"
+  }
+]

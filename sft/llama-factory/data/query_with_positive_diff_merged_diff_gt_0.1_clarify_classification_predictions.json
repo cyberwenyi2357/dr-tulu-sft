@@ -1,0 +1,1107 @@
+[
+  {
+    "id": null,
+    "query": "How can I use a combination of methods for text summarization?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the leading methods for learning costs automatically from experience?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "Have models been applied to a matching problem in databases and are they effective?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What preprocessing steps are important before reconstruction?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How effective are models at generating descriptions of concepts?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How are new methods typically evaluated?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How good are models at solving datasets using in-context learning?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How have publishing platforms impacted distribution?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "Have approaches been developed for providing assistance when people write queries?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How has the graph been used to improve language models?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How has literature discussed it?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are some robot path planning algorithms?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How does the technique differ in its application to one type of tree versus another?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How are demonstrations represented in programs and used for tasks?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the leading techniques for robot navigation?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are methods for generating difficult examples of a problem, and what are their strengths and weaknesses?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What datasets and methods are used to pre-train models on tasks?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How does it impact design?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "how can process improvements be effectively measured?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What interfaces have researchers developed to help people evaluate models, and how do they speed up annotation?",
+    "prediction": "No"
+  },
+  {
+    "id": null,
+    "query": "What is the difference between datasets in terms of data analysis?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "is there any evidence that models can be effectively applied to planning tasks?",
+    "prediction": "No"
+  },
+  {
+    "id": null,
+    "query": "What are the most important open challenges in machine learning?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What interfaces have researchers developed for helping people optimize models for a task, and what are the biggest remaining user problems?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are some principles for designing interventions?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What strategies are used to improve robustness and safety in extreme weather conditions?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "what are some datasets used for evaluating type inference?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How does learning in models differ from traditional model training?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "what datasets are commonly used to evaluate methods",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are metrics to measure communication quality?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What is a problem and what results are known about it?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "Describe what is known about overfitting.",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the key differences between two design approaches?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "Does it work well when fine-tuning models?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "Which characteristics of a wave can be used to distinguish it from other waves?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are some common designs for tools?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the main methods for automatic review generation and what are their pros and cons?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How do models impact the diversity of published ideas?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What data structures are commonly used to solve this problem?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What results have been obtained on the hierarchy?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What sampling techniques are used for estimation?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How does it improve data transmission efficiency?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the main approaches for detecting anomalies?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How have theories informed the design of features in systems?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are different techniques in signal processing? Which one is more effective?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What theories are testable on a platform like this but have not yet been studied in the literature?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the most important practical applications of robotic manipulation?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "Is it possible to get information in a band beyond the limitation of theory?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What tool is most accurate for an evaluation of a study?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "I’m measuring error rate for different modulation types and want to understand and measure error vector magnitude more accurately using a general equation. Is this the right approach, and what should I expect from the EVM vs. signal-to-noise ratio curve?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What problems can cause a connection to end?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How is technology being utilized to improve diagnosis and treatment?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "Why do robots typically use 3 degrees of freedom for each leg? What would be the disadvantages of 2 dof?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "what are techniques for navigation in environments with obstacles?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the latest techniques for ensuring reliability of a storage system?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What principles can be applied to curating feeds?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What kinds of algorithms are effective for robots?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the main challenges in adapting models for data representation?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What kinds of tools and data sources are available to help with information needs?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What metrics are typically used for evaluating privacy systems?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the main downstream applications that use these algorithms, and can you give examples of them in real-world use?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the leading thoughts about how to teach students in the age of AI?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the best practices to protect software against vulnerabilities from third party libraries?",
+    "prediction": "No"
+  },
+  {
+    "id": null,
+    "query": "What are the leading techniques for person-following robot navigation?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "Have specialized approaches been developed for providing LLM assistance when people author queries?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How does the tree covering technique differ in its application to trees?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How are user demonstrations represented in programs and used for automation tasks?",
+    "prediction": "No"
+  },
+  {
+    "id": null,
+    "query": "What are good practices for detecting AI-generated texts?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "what are the advantages and disadvantages of visiotactile, piezoelectric, trieboelectric tactile sensors?",
+    "prediction": "No"
+  },
+  {
+    "id": null,
+    "query": "what are some datasets used for evaluating variable type inference?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What sampling techniques are used for yield estimation?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What theories from psychology are testable on a platform like mturk but haven't yet been studied?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What data analysis tool are the most accurate for an appraisal of a research study?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the latest techniques for ensuring the reliability of a storage system?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the most significant downstream applications that either are or could be using these algorithms? Concrete examples of the graph algorithms in use in real-world applications would be especially helpful.",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the leading thoughts about how to teach computer science to college students?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How are user demonstrations represented in specialized-language programs and used for automation tasks?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "what are the advantages and disadvantages of tactile sensors for robots?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "How does in-context learning for large language models differ from traditional machine learning model training?",
+    "prediction": "No"
+  },
+  {
+    "id": null,
+    "query": "Can you recommend a suitable theoretical lens for qualitative research concerning automation implementations?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What is a unique satisfiability problem and what theoretical results are known about it?",
+    "prediction": "No"
+  },
+  {
+    "id": null,
+    "query": "How do large language models impact the diversity of published scientific ideas?",
+    "prediction": "No"
+  },
+  {
+    "id": null,
+    "query": "What recent results have been obtained on a generic optimization hierarchy?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What theories from psychology are testable on a crowdsourcing platform but haven't yet been studied in the human-computer interaction literature?",
+    "prediction": "Yes"
+  },
+  {
+    "id": null,
+    "query": "What are the main challenges in adapting neural network models for tabular data representation?",
+    "prediction": "No"
+  },
+  {
+    "id": null,
+    "query": "What performance metrics are typically used for evaluating privacy systems?",
+    "prediction": "No"
+  },
+  {
+    "id": null,
+    "query": "The following paper focuses on a problem of counting the number of subgraphs in a graph that have certain properties. What are the most significant downstream applications that either are or could be using these algorithms? Concrete examples of the graph algorithms in use in real-world applications would be especially helpful. https://arxiv.org/pdf/2407.06801",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_2",
+    "query": "What strategies can be introduced to prevent particles from accumulating in one organ?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_fully_underspecified_4",
+    "query": "What are the most common applications of antibodies in medicine and diagnostics?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_fully_underspecified_7",
+    "query": "What are the challenges and solutions associated with manufacturing antibodies?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_8",
+    "query": "How has the integration of antibody technology impacted the field of development and therapy?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_9",
+    "query": "What are the advantages of using a host organism for recombinant protein expression?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_fully_underspecified_13",
+    "query": "What type and stage are most ideal for using surgery as a treatment option?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_16",
+    "query": "What are different ways to make linkers?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_25",
+    "query": "Any recommendations on this topic?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_30",
+    "query": "What are some of the key advantages and challenges of building evaluation datasets by translating existing datasets into other languages? How do these translated datasets impact the quality and reliability of evaluations, and what potential pitfalls should be considered when using translations as a primary method for creating benchmarks?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_fully_underspecified_32",
+    "query": "How do people train a model over a long context length using parallelism techniques? How are these methods compared with each other?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_38",
+    "query": "How to detect or extract data from models? Are there related works on this topic?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_39",
+    "query": "What are the common model architectures for language models?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_45",
+    "query": "Can guidance be extended beyond models in generation to tasks?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_47",
+    "query": "Has there been any research on the ordering of data points for language models, such that a model may be trained in a more sample-efficient manner?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_49",
+    "query": "What are some recent techniques that mitigate bias in language models?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_59",
+    "query": "how cell response to drugs",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_63",
+    "query": "What are ways to cool motion of particles?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_64",
+    "query": "What recent experiments have verified the existence of a force at small scales?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_66",
+    "query": "What progress has been made in trapping and controlling multiple particles?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_77",
+    "query": "How to realize optimization of a cavity-based process?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_78",
+    "query": "What are the ways to perform cooling",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_79",
+    "query": "What are some ways to overcome the heating issue?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_fully_underspecified_83",
+    "query": "What are ways to improve the behavior of the couplers?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_84",
+    "query": "What are ways to modulate surface acoustic waves?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_91",
+    "query": "How does particle binding to a cavity induce a resonance shift, and what are the limitations and enhancements required for sensitive detection?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_fully_underspecified_97",
+    "query": "What are the recent research advancements in enhancing imaging?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_100",
+    "query": "How can we develop effective systems to improve understanding of concepts and jargon across different domains and expertise levels?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_preference_58",
+    "query": "How to compensate for dispersion in OCT by hardware or computational methods",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_preference_60",
+    "query": "What are the major new advanced findings from polarization-sensitive Optical coherence tomography compared with traditional OCT?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_preference_99",
+    "query": "How can natural language processing and machine learning techniques be leveraged to improve the understanding of medical jargon and research papers?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_preference_108",
+    "query": "How can we improve the automatic generation of related work sections for scientific papers with the help of language models?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_scope_7",
+    "query": "What are the production challenges and solutions associated with the manufacturing of recombinant antibodies?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_scope_22",
+    "query": "Hi everyone, I want to use an LLM to evaluate the quality of my synthetically generated data using GPT-4. I was wondering if I should use GPT-4 as the evaluator LLM or should I use a different LLM so that it does not bias its own generation. Can someone kindly explain the best practice right now for this? Thanks!",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_scope_29",
+    "query": "would appreciate it if anyone can share papers on synthetic data generation, especially those that generate hard reasoning problems",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_scope_43",
+    "query": "Could you please provide some references to work on summarization?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_scope_44",
+    "query": "What exactly is the \"dark knowledge\" that gets distilled in the standard formulation of knowledge distillation, wherein information is transferred from a teacher network to a student network?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_scope_47",
+    "query": "Has there been any research on the ordering of datapoints for language models, such as an easy-to-hard curriculum sequence, so that a language model may be trained in a more sample-efficient manner?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_scope_99",
+    "query": "How can natural language processing and machine learning techniques be leveraged to improve the understanding of jargon and research papers for non-experts?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_term_1",
+    "query": "What are the key mechanisms for lipid nanoparticles to form biomolecular corona with various serum proteins and blood components?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_term_9",
+    "query": "What are the advantages of using a common bacterial host organism for recombinant protein expression?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_term_27",
+    "query": "do we know how true the “alignment hypothesis” is?\nA model’s knowledge and capabilities are learnt almost entirely during pretraining, while alignment teaches it which subdistribution of formats should be used when interacting with users\nIs it true for all domains/aspects or is it only true for more perceivable aspects like helpfulness?\nDoes supervised fine-tuning on a huge instruction dataset teach models new knowledge? Pointers to related papers would be appreciated.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_term_33",
+    "query": "Could you explain the AI model series or variants? How did they evolve over time?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_term_45",
+    "query": "Can guidance without a classifier be extended beyond conditional diffusion models in image generation to natural language processing tasks?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_term_73",
+    "query": "What methods can be used to simulate binary black holes in numerical relativity?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_term_77",
+    "query": "How to realize topology optimization of cavity-based second harmonic generation?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_fully_underspecified_13",
+    "query": "Can you find me papers that discuss a method for aligning models?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_17",
+    "query": "what are the current models in security?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_30",
+    "query": "I need an introduction about the principle of an autoencoder.",
+    "prediction": "No"
+  },
+  {
+    "id": "query_fully_underspecified_60",
+    "query": "how the issue is linked to the issue",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_89",
+    "query": "Find papers on the topic.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_29",
+    "query": "what are plots",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_58",
+    "query": "Did anyone work on aligning predictions to experts?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_21",
+    "query": "What is the state of the art in emotion recognition?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_8",
+    "query": "Which methods exist that output representations?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_95",
+    "query": "Can you find me works on evaluating models?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_18",
+    "query": "Please find papers on models and computer simulation of devices and related materials",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_7",
+    "query": "The difference between summarization approaches",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_93",
+    "query": "Find some existing work on analysis.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_43",
+    "query": "is there a system designed with transducers and neural networks? how does it work",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_55",
+    "query": "what is it in the field?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_56",
+    "query": "Summarise how it works and its difference to them",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_39",
+    "query": "how do they perform on graphs?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_28",
+    "query": "find papers on it",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_74",
+    "query": "write a literature review on the topic of abilities in AI regarding prediction",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_22",
+    "query": "Scheduling of image data",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_99",
+    "query": "How does it work",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_33",
+    "query": "what is the latest about neural networks in image recognition?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_71",
+    "query": "Feature extraction method",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_45",
+    "query": "give a literature review on the topic and the challenges of changing environment and generalization problem.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_63",
+    "query": "document adaptation approach",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_69",
+    "query": "Please do some research on articles related to bones and 3D models.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_41",
+    "query": "what are the latest methods to deal with reasoning in language models?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_90",
+    "query": "papers about the influence of size on analysis tasks",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_94",
+    "query": "what are the recent works on them?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_86",
+    "query": "How does prediction happen in a domain? What models are there in this direction?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_68",
+    "query": "LLM to synthesize a recipe for a display material",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_88",
+    "query": "AI on analysis",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_19",
+    "query": "Identify relevant models for adoption.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_50",
+    "query": "Similarity checking for names",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_34",
+    "query": "Are there articles on ranking?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_61",
+    "query": "How does the solution use previous time step solutions to advance the solution in time?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_fully_underspecified_96",
+    "query": "biases in language models from data",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_1",
+    "query": "Teach me about progress on diagnosis of models like CLIP",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_37",
+    "query": "Are there any articles where a certain type of model has been used to solve or discuss a problem involving ranking fusion and hierarchically supervised information?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_24",
+    "query": "Search for research about fine-tuning methods.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_64",
+    "query": "Find papers on how weights change during training in a model",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_80",
+    "query": "has anyone propose metric like to judge whether a model has some knowledge",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_15",
+    "query": "what is information and conditional information",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_14",
+    "query": "How do people assess the organization of generated documents?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_31",
+    "query": "what training sets have been shown to be useful for these tasks?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_51",
+    "query": "I want to learn about the development of a technology and provide me with relevant papers",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_42",
+    "query": "Are there any related research that evaluates the utility/effectiveness of retrieved items?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_fully_underspecified_26",
+    "query": "What is the trend for image resolution number for a use-case? If you find the highest resolution number as a reference, please explain the abstract contents.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_27",
+    "query": "What are challenges in testing?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_76",
+    "query": "What are the latest techniques and models being used in vision for detection, classification and segmentation",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_9",
+    "query": "How can I make a generative model better at spatial reasoning for arranging objects in a 3D environment? I am currently creating a dataset with correct inputs and outputs using a top-down view of a scene, but this is tedious and I would prefer a more automated synthetic data generation approach. The goal is to fine-tune a model for this task. Use recent research to suggest a few automated approaches.",
+    "prediction": "No"
+  },
+  {
+    "id": "query_fully_underspecified_83",
+    "query": "what best approach to compare descriptions for similarity",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_40",
+    "query": "Research on making a model that compresses and restores its latent vector further",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_82",
+    "query": "methodologies for problems with classification",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_3",
+    "query": "Are there any articles focusing on the use of mechanisms in ranking? Where the weights generated by the mechanism are fused as weights for the base ranking?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_fully_underspecified_62",
+    "query": "how to improve retrieval with learning?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_23",
+    "query": "find papers on topic about ambiguity and agent",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_38",
+    "query": "Can models learn new information when trained?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_46",
+    "query": "Evaluating biases in language models.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_48",
+    "query": "are there any selection algorithms that minimize distance?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_44",
+    "query": "planning with models",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_35",
+    "query": "What are the latest methods for generating 3D meshes from multiple images?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_fully_underspecified_54",
+    "query": "learning to rank, debiasing, correct the bias",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_scope_24",
+    "query": "Search for research about parameter-efficient fine-tuning method.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_scope_19",
+    "query": "Identify relevant game theory models.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_scope_65",
+    "query": "Can you tell me about research done on reinforcement learning and multi-agent reinforcement learning for optimal control?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_scope_39",
+    "query": "how do GNNs perform on graphs?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_scope_75",
+    "query": "most important papers about machine learning applied in fraud detection",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_scope_35",
+    "query": "What are the state-of-the-art work for 3D Mesh Generation?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_scope_9",
+    "query": "My goal is to have a large generative machine learning model be good at reasoning with spatial dimensions to help with building 3d scenes. This includes positioning and orienting objects well in a 3d environment. This could include use a large language model, a large multimodal model, or a large video generation model. The current approach I am taking is to develop a dataset with correct input and output using a top down view of a scene and position and orientating objects correctly. However, it is a manual tedious task and would prefer more automated synthetic generation approach. The end goal could be either to fine tune any of the models specified for this type of task. There has been a lot of recent findings of the benefits of reasoning with chain-of-thought (CoT). Use recent research to suggest a few automated approaches.",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_scope_1",
+    "query": "Teach me about the latest progress on diagnosis, such as counterfactual explanation, of VLM models like CLIP",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_scope_90",
+    "query": "papers about the influence of model size on sentiment analysis tasks",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_scope_26",
+    "query": "What is the trend for image resolution number for vision transformer use-case? If you find the highest resolution number as a reference, please explain the abstract contents.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_scope_21",
+    "query": "What is the state of the art in EEG emotion recognition?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_term_30",
+    "query": "I need a detailed introduction about the principle of a type of autoencoder. Please give me the most information as you can.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_term_13",
+    "query": "Can you find me papers that discuss a generic training method for aligning language models?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_term_69",
+    "query": "Please do some research on articles related to bones and 3D representations.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_term_94",
+    "query": "what are the recent works on task representations?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_term_64",
+    "query": "Find papers on how weights evolve through training in a neural network model",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_term_68",
+    "query": "Large language model to synthesize a material recipe for a quantum dot light-emitting diode",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_term_61",
+    "query": "When performing the algorithm how does the solution use previous time step solutions to advance the solution in time?",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_term_37",
+    "query": "If you are a researcher currently thinking about an approach to whether neural network models can be utilized to solve the problem of ranking fusion, where the information that can be obtained is hierarchically supervised information; are there any articles in the field of information retrieval where neural network models have been used to solve or discuss this problem?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_term_90",
+    "query": "papers about the influence of model size on text classification tasks",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_term_17",
+    "query": "what are the current risk-based propagation models in internet of things security?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_term_8",
+    "query": "Which 3D point cloud rendering methods exist that output mesh representations?",
+    "prediction": "No"
+  },
+  {
+    "id": "query_without_term_18",
+    "query": "Please find papers on models and computer simulation of magnetic memory devices and related materials",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_preference_1",
+    "query": "Teach me about the latest progress on diagnosis of VLM models like CLIP.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_preference_26",
+    "query": "What is the trend for image resolution in vision transformer use cases? If you find the highest resolution as a reference, please explain the abstract contents.",
+    "prediction": "Yes"
+  },
+  {
+    "id": "query_without_preference_13",
+    "query": "Can you find papers that discuss expert iteration for aligning language models?",
+    "prediction": "No"
+  }
+]

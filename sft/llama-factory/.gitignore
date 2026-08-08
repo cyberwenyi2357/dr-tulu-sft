@@ -182,3 +182,4 @@ predictions_score.json
 ckpts/
 slurm_jobs/
 slurm_logs/
+base_models/

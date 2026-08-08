@@ -11,6 +11,76 @@
   "query_clarification_alpaca": {
     "file_name": "query_clarification_alpaca.jsonl"
   },
+  "augmented_clarify_classification_alpaca": {
+    "file_name": "augmented_clarify_classification_alpaca.json"
+  },
+  "augmented_clarify_classification_alpaca_train": {
+    "file_name": "augmented_clarify_classification_alpaca_train.json"
+  },
+  "augmented_clarify_classification_alpaca_val": {
+    "file_name": "augmented_clarify_classification_alpaca_val.json"
+  },
+  "augmented_clarify_classification_balanced_sharegpt_merged": {
+    "file_name": "augmented_clarify_classification_balanced_sharegpt_merged.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
+  },
+  "augmented_clarify_classification_balanced_for_SFT_sharegpt_moreData": {
+    "file_name": "augmented_clarify_classification_balanced_for_SFT_sharegpt_moreData.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "tools": "tools"
+    }
+  },
+  "ambiguity_checker_gpt4o_all_deepresearch_answers": {
+    "file_name": "ambiguity_checker_gpt4o_all_deepresearch_answers_sharegpt_openai.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "ambiguity_checker_gpt4o_all_high_quality_data_sft": {
+    "file_name": "ambiguity_checker_gpt4o_all_high_quality_data_sft_llamafactory.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "ambiguity_checker_agent_output_gpt4o_all_sft": {
+    "file_name": "ambiguity_checker_agent_output_gpt4o_all_sft_llamafactory.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "researchQA_sample50_fully_underspecified_alpaca": {
+    "file_name": "researchQA_sample50_fully_underspecified_alpaca.json"
+  },
   "glaive_toolcall_en_demo": {
     "file_name": "glaive_toolcall_en_demo.json",
     "formatting": "sharegpt",

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 81,
+    "ingredient_recall_original": 0.6904761904761905,
+    "ingredient_recall_without_preference": 0.8333333333333333,
+    "diff": -0.1428571428571428,
+    "query": "can you write a literature review on the use of artificial intelligence for planning in mass customization manufacturing companies"
+  },
+  {
+    "id": 74,
+    "ingredient_recall_original": 0.8823529411764706,
+    "ingredient_recall_without_preference": 0.9117647058823529,
+    "diff": -0.02941176470588236,
+    "query": "write a literature review on the topic of spatial abilities in AI regarding depth prediction"
+  },
+  {
+    "id": 51,
+    "ingredient_recall_original": 0.5263157894736842,
+    "ingredient_recall_without_preference": 0.5526315789473684,
+    "diff": -0.02631578947368418,
+    "query": "I want to learn about the historical development of LLM and provide relevant papers"
+  },
+  {
+    "id": 76,
+    "ingredient_recall_original": 0.875,
+    "ingredient_recall_without_preference": 0.9,
+    "diff": -0.025000000000000022,
+    "query": "What are the latest deep learning techniques and models being used in computer vision for corrosion (rust) detection, classification, and segmentation?"
+  }
+]

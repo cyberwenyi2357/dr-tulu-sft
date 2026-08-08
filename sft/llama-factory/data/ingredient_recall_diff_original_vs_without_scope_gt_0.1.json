@@ -1,0 +1,90 @@
+[
+  {
+    "id": 24,
+    "ingredient_recall_original": 0.9642857142857142,
+    "ingredient_recall_without_scope": 0.07142857142857142,
+    "diff": 0.8928571428571428,
+    "query": "Search for research about parameter-efficient fine-tuning method.",
+    "original_query": "Search for research about parameter-efficient fine-tuning method in computer vision."
+  },
+  {
+    "id": 19,
+    "ingredient_recall_original": 0.7058823529411764,
+    "ingredient_recall_without_scope": 0.08823529411764705,
+    "diff": 0.6176470588235293,
+    "query": "Identify relevant game theory models.",
+    "original_query": "Identify relevant game theory models for blockchain adoption."
+  },
+  {
+    "id": 65,
+    "ingredient_recall_original": 0.9333333333333333,
+    "ingredient_recall_without_scope": 0.5,
+    "diff": 0.43333333333333335,
+    "query": "Can you tell me about research done on reinforcement learning and multi-agent reinforcement learning for optimal control?",
+    "original_query": "Can you tell me about research done on Reinforcement learning and multi-agent reinforcement learning for smart-grids and optimal control?"
+  },
+  {
+    "id": 39,
+    "ingredient_recall_original": 0.8928571428571428,
+    "ingredient_recall_without_scope": 0.46428571428571425,
+    "diff": 0.42857142857142855,
+    "query": "how do GNNs perform on graphs?",
+    "original_query": "how do GNNs perform on graphs with billions of nodes?"
+  },
+  {
+    "id": 75,
+    "ingredient_recall_original": 0.9230769230769231,
+    "ingredient_recall_without_scope": 0.6538461538461539,
+    "diff": 0.2692307692307693,
+    "query": "most important papers about machine learning applied in fraud detection",
+    "original_query": "most important and recent papers about machine learning applied in fraud detection in retail"
+  },
+  {
+    "id": 35,
+    "ingredient_recall_original": 0.75,
+    "ingredient_recall_without_scope": 0.5,
+    "diff": 0.25,
+    "query": "What are the state-of-the-art work for 3D Mesh Generation?",
+    "original_query": "What are the state-of-the-art work for 3D Mesh Generation from Multi-view 2d images?"
+  },
+  {
+    "id": 9,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_without_scope": 0.8076923076923077,
+    "diff": 0.1923076923076923,
+    "query": "My goal is to have a large generative machine learning model be good at reasoning with spatial dimensions to help with building 3d scenes. This includes positioning and orienting objects well in a 3d environment. This could include use a large language model, a large multimodal model, or a large video generation model. The current approach I am taking is to develop a dataset with correct input and output using a top down view of a scene and position and orientating objects correctly. However, it is a manual tedious task and would prefer more automated synthetic generation approach. The end goal could be either to fine tune any of the models specified for this type of task. There has been a lot of recent findings of the benefits of reasoning with chain-of-thought (CoT). Use recent research to suggest a few automated approaches.",
+    "original_query": "My goal is to have a large generative machine learning model be good at reasoning with spatial dimensions to help with building 3d film scenes. This includes positioning and orienting objects well in a 3d environment. This could include use a large language model, a large multimodal model, or a large video generation model. The current approach I am taking is to develop a dataset with correct input and output using a top down view of a scene and position and orientating objects correctly. However, it is a manual tedious task and would prefer more automated synthetic generation approach. The end goal could be either to fine tune any of the models specified for this type of task. Ideally I would use a movie scene dataset which I have. There has been a lot of recent findings of the benefits of reasoning with chain-of-thought (CoT). Use recent research to suggest a few automated approaches."
+  },
+  {
+    "id": 1,
+    "ingredient_recall_original": 0.9230769230769231,
+    "ingredient_recall_without_scope": 0.7692307692307693,
+    "diff": 0.15384615384615385,
+    "query": "Teach me about the latest progress on diagnosis, such as counterfactual explanation, of VLM models like CLIP",
+    "original_query": "Teach me about all latest progress on diagnosis, such as counterfactual explanation, of VLM models like CLIP"
+  },
+  {
+    "id": 90,
+    "ingredient_recall_original": 0.9423076923076924,
+    "ingredient_recall_without_scope": 0.7884615384615385,
+    "diff": 0.15384615384615385,
+    "query": "papers about the influence of model size on sentiment analysis tasks",
+    "original_query": "papers about the influence of model size on Sentiment analysis tasks"
+  },
+  {
+    "id": 26,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_without_scope": 0.8500000000000001,
+    "diff": 0.1499999999999999,
+    "query": "What is the trend for image resolution number for vision transformer use-case? If you find the highest resolution number as a reference, please explain the abstract contents.",
+    "original_query": "What is the trend for image resolution number for vision transformer use-case? if you find the highest resolution number as a reference, please explain the abstract contents."
+  },
+  {
+    "id": 21,
+    "ingredient_recall_original": 0.9523809523809523,
+    "ingredient_recall_without_scope": 0.8333333333333333,
+    "diff": 0.11904761904761907,
+    "query": "What is the state of the art in EEG emotion recognition?",
+    "original_query": "What is the state of the art in cross subject EEG emotion recognition?"
+  }
+]

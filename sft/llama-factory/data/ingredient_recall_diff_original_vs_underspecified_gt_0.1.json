@@ -1,0 +1,506 @@
+[
+  {
+    "id": 13,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 1.0,
+    "query": "Can you find me papers that discuss a method for aligning models?",
+    "original_query": "Can you find me papers that discuss expert iteration for aligning language models?"
+  },
+  {
+    "id": 17,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 1.0,
+    "query": "what are the current models in security?",
+    "original_query": "what are the current \"Adaptive Risk-Based Propagation Models\" in internet of things security?"
+  },
+  {
+    "id": 30,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 1.0,
+    "query": "I need an introduction about the principle of an autoencoder.",
+    "original_query": "I need a detailed introduction about the principle of Topological Autoencoder. Please give me the most information as you can."
+  },
+  {
+    "id": 60,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 1.0,
+    "query": "how the issue is linked to the issue",
+    "original_query": "how the AI hallucination is linked to the AI bias"
+  },
+  {
+    "id": 89,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 1.0,
+    "query": "Find papers on the topic.",
+    "original_query": "Find papers on the topic that generative artificial intelligence trends towards the most average response."
+  },
+  {
+    "id": 29,
+    "ingredient_recall_original": 0.9615384615384616,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.9615384615384616,
+    "query": "what are plots",
+    "original_query": "what are faceted plots"
+  },
+  {
+    "id": 58,
+    "ingredient_recall_original": 0.9615384615384616,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.9615384615384616,
+    "query": "Did anyone work on aligning predictions to experts?",
+    "original_query": "Did anyone worked on aligning legal judgement predictions to human experts?"
+  },
+  {
+    "id": 21,
+    "ingredient_recall_original": 0.9523809523809523,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.9523809523809523,
+    "query": "What is the state of the art in emotion recognition?",
+    "original_query": "What is the state of the art in cross subject EEG emotion recognition?"
+  },
+  {
+    "id": 8,
+    "ingredient_recall_original": 0.9500000000000001,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.9500000000000001,
+    "query": "Which methods exist that output representations?",
+    "original_query": "Which 3D Gaussian Splatting methods exist that output mesh representations?"
+  },
+  {
+    "id": 95,
+    "ingredient_recall_original": 0.9444444444444444,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.9444444444444444,
+    "query": "Can you find me works on evaluating models?",
+    "original_query": "Can you find me works on evaluating reward models. Specifically, ones that mention ranking accuracy is not a sufficient metric?"
+  },
+  {
+    "id": 18,
+    "ingredient_recall_original": 0.9375,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.9375,
+    "query": "Please find papers on models and computer simulation of devices and related materials",
+    "original_query": "Please find papers on models and computer simulation of MRAM devices and related materials"
+  },
+  {
+    "id": 7,
+    "ingredient_recall_original": 0.9333333333333333,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.9333333333333333,
+    "query": "The difference between summarization approaches",
+    "original_query": "The difference between cross-language summarization and multilingual summarization"
+  },
+  {
+    "id": 93,
+    "ingredient_recall_original": 0.9333333333333333,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.9333333333333333,
+    "query": "Find some existing work on analysis.",
+    "original_query": "Find some existing work on LLM and inductive qualitative analysis."
+  },
+  {
+    "id": 43,
+    "ingredient_recall_original": 0.9166666666666666,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.9166666666666666,
+    "query": "is there a system designed with transducers and neural networks? how does it work",
+    "original_query": "is there a vad system designed with weighted finite state transducers and deep neural networks? how does it work"
+  },
+  {
+    "id": 55,
+    "ingredient_recall_original": 0.9047619047619047,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.9047619047619047,
+    "query": "what is it in the field?",
+    "original_query": "what is grokking in the neural network field?"
+  },
+  {
+    "id": 56,
+    "ingredient_recall_original": 0.9,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.9,
+    "query": "Summarise how it works and its difference to them",
+    "original_query": "Summarise for me how kubernetes works and its difference to containers"
+  },
+  {
+    "id": 39,
+    "ingredient_recall_original": 0.8928571428571428,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.8928571428571428,
+    "query": "how do they perform on graphs?",
+    "original_query": "how do GNNs perform on graphs with billions of nodes?"
+  },
+  {
+    "id": 28,
+    "ingredient_recall_original": 0.8846153846153847,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.8846153846153847,
+    "query": "find papers on it",
+    "original_query": "find papers on ray tracing nurbs"
+  },
+  {
+    "id": 74,
+    "ingredient_recall_original": 0.8823529411764706,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.8823529411764706,
+    "query": "write a literature review on the topic of abilities in AI regarding prediction",
+    "original_query": "write a literature review on the topic of Spatial abilities in AI regarding to depth prediction"
+  },
+  {
+    "id": 22,
+    "ingredient_recall_original": 0.875,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.875,
+    "query": "Scheduling of image data",
+    "original_query": "Downlink scheduling of satellite image data"
+  },
+  {
+    "id": 99,
+    "ingredient_recall_original": 0.8684210526315789,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.8684210526315789,
+    "query": "How does it work",
+    "original_query": "How does 1 bit llm work"
+  },
+  {
+    "id": 33,
+    "ingredient_recall_original": 0.8666666666666667,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.8666666666666667,
+    "query": "what is the latest about neural networks in image recognition?",
+    "original_query": "what is sota about deep neural network with hebb rule in image recognition?"
+  },
+  {
+    "id": 71,
+    "ingredient_recall_original": 0.8666666666666667,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.8666666666666667,
+    "query": "Feature extraction method",
+    "original_query": "Arc fault feature extraction method"
+  },
+  {
+    "id": 45,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_underspecified": 0.16666666666666666,
+    "diff": 0.8333333333333334,
+    "query": "give a literature review on the topic and the challenges of changing environment and generalization problem.",
+    "original_query": "give a literature review on digital twin and challenges of changing environment and generalization problem."
+  },
+  {
+    "id": 63,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_underspecified": 0.16666666666666666,
+    "diff": 0.8333333333333334,
+    "query": "document adaptation approach",
+    "original_query": "Multimedia document adaptation approach"
+  },
+  {
+    "id": 69,
+    "ingredient_recall_original": 0.8157894736842105,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.8157894736842105,
+    "query": "Please do some research on articles related to bones and 3D models.",
+    "original_query": "Please do some research on articles related to bones and 3D Gaussians."
+  },
+  {
+    "id": 41,
+    "ingredient_recall_original": 0.7777777777777777,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.7777777777777777,
+    "query": "what are the latest methods to deal with reasoning in language models?",
+    "original_query": "what are the latest methods to deal with temporal reasoning in llms?"
+  },
+  {
+    "id": 90,
+    "ingredient_recall_original": 0.9423076923076924,
+    "ingredient_recall_underspecified": 0.17307692307692307,
+    "diff": 0.7692307692307694,
+    "query": "papers about the influence of size on analysis tasks",
+    "original_query": "papers about the influence of model size on Sentiment analysis tasks"
+  },
+  {
+    "id": 94,
+    "ingredient_recall_original": 0.7666666666666666,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.7666666666666666,
+    "query": "what are the recent works on them?",
+    "original_query": "what are the recent works on task vectors?"
+  },
+  {
+    "id": 86,
+    "ingredient_recall_original": 0.75,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.75,
+    "query": "How does prediction happen in a domain? What models are there in this direction?",
+    "original_query": "How the variant effect prediction happen in proteomics and genomics domain ? What are the LLM are there in this direction?"
+  },
+  {
+    "id": 68,
+    "ingredient_recall_original": 0.9285714285714285,
+    "ingredient_recall_underspecified": 0.21428571428571427,
+    "diff": 0.7142857142857142,
+    "query": "LLM to synthesize a recipe for a display material",
+    "original_query": "LLM to synthesize material recipe for quantum dot led"
+  },
+  {
+    "id": 88,
+    "ingredient_recall_original": 0.9285714285714285,
+    "ingredient_recall_underspecified": 0.21428571428571427,
+    "diff": 0.7142857142857142,
+    "query": "AI on analysis",
+    "original_query": "Explainable AI on Sentimental Analysis"
+  },
+  {
+    "id": 19,
+    "ingredient_recall_original": 0.7058823529411764,
+    "ingredient_recall_underspecified": 0.0,
+    "diff": 0.7058823529411764,
+    "query": "Identify relevant models for adoption.",
+    "original_query": "Identify relevant game theory models for blockchain adoption."
+  },
+  {
+    "id": 50,
+    "ingredient_recall_original": 0.8260869565217391,
+    "ingredient_recall_underspecified": 0.17391304347826086,
+    "diff": 0.6521739130434783,
+    "query": "Similarity checking for names",
+    "original_query": "Embedding for checking similarity of company names"
+  },
+  {
+    "id": 34,
+    "ingredient_recall_original": 0.9545454545454546,
+    "ingredient_recall_underspecified": 0.36363636363636365,
+    "diff": 0.5909090909090909,
+    "query": "Are there articles on ranking?",
+    "original_query": "Are there articles on the fusion of coarse and fine granularity related hierarchical ranking?"
+  },
+  {
+    "id": 61,
+    "ingredient_recall_original": 0.6923076923076923,
+    "ingredient_recall_underspecified": 0.11538461538461539,
+    "diff": 0.5769230769230769,
+    "query": "How does the solution use previous time step solutions to advance the solution in time?",
+    "original_query": "When performing the HHL algorithm how does the solution use previous time step solutions to advance the solution in time?"
+  },
+  {
+    "id": 96,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_underspecified": 0.5,
+    "diff": 0.5,
+    "query": "biases in language models from data",
+    "original_query": "Indian biases in LLMs from pretraining data"
+  },
+  {
+    "id": 1,
+    "ingredient_recall_original": 0.9230769230769231,
+    "ingredient_recall_underspecified": 0.46153846153846156,
+    "diff": 0.46153846153846156,
+    "query": "Teach me about progress on diagnosis of models like CLIP",
+    "original_query": "Teach me about all latest progress on diagnosis, such as counterfactual explanation, of VLM models like CLIP"
+  },
+  {
+    "id": 37,
+    "ingredient_recall_original": 0.9333333333333333,
+    "ingredient_recall_underspecified": 0.5,
+    "diff": 0.43333333333333335,
+    "query": "Are there any articles where a certain type of model has been used to solve or discuss a problem involving ranking fusion and hierarchically supervised information?",
+    "original_query": "If you are a researcher currently thinking about an approach to whether transformers can be utilized to solve the problem of ranking fusion, where the information that can be obtained is hierarchically supervised information; are there any articles in the field of information retrieval where transformers have been used to solve or discuss this problem?"
+  },
+  {
+    "id": 24,
+    "ingredient_recall_original": 0.9642857142857142,
+    "ingredient_recall_underspecified": 0.5357142857142857,
+    "diff": 0.4285714285714285,
+    "query": "Search for research about fine-tuning methods.",
+    "original_query": "Search for research about parameter-efficient fine-tuning method in computer vision."
+  },
+  {
+    "id": 64,
+    "ingredient_recall_original": 0.8846153846153847,
+    "ingredient_recall_underspecified": 0.46153846153846156,
+    "diff": 0.42307692307692313,
+    "query": "Find papers on how weights change during training in a model",
+    "original_query": "Find papers on how weight evolve through training in a transformer"
+  },
+  {
+    "id": 80,
+    "ingredient_recall_original": 0.65625,
+    "ingredient_recall_underspecified": 0.25,
+    "diff": 0.40625,
+    "query": "has anyone propose metric like to judge whether a model has some knowledge",
+    "original_query": "has anyone propose metric like to judge whether a coding LLM has some knowledge"
+  },
+  {
+    "id": 15,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_underspecified": 0.6153846153846154,
+    "diff": 0.3846153846153846,
+    "query": "what is information and conditional information",
+    "original_query": "what is mutual information and condition mutual information"
+  },
+  {
+    "id": 14,
+    "ingredient_recall_original": 0.84375,
+    "ingredient_recall_underspecified": 0.46875,
+    "diff": 0.375,
+    "query": "How do people assess the organization of generated documents?",
+    "original_query": "How do people in the field of NLP assess the organization of generated documents?"
+  },
+  {
+    "id": 31,
+    "ingredient_recall_original": 0.875,
+    "ingredient_recall_underspecified": 0.5,
+    "diff": 0.375,
+    "query": "what training sets have been shown to be useful for these tasks?",
+    "original_query": "what training sets have been shown to be useful for mmlu, math, or arc-challenge?"
+  },
+  {
+    "id": 51,
+    "ingredient_recall_original": 0.5263157894736842,
+    "ingredient_recall_underspecified": 0.15789473684210525,
+    "diff": 0.3684210526315789,
+    "query": "I want to learn about the development of a technology and provide me with relevant papers",
+    "original_query": "I want to learn about the historical development of LLM and provide me with relevant papers"
+  },
+  {
+    "id": 42,
+    "ingredient_recall_original": 0.9333333333333333,
+    "ingredient_recall_underspecified": 0.5666666666666667,
+    "diff": 0.3666666666666667,
+    "query": "Are there any related research that evaluates the utility/effectiveness of retrieved items?",
+    "original_query": "Are there any related research that evaluates the utility/effectiveness of retrieved items in RAG?"
+  },
+  {
+    "id": 26,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_underspecified": 0.65,
+    "diff": 0.35,
+    "query": "What is the trend for image resolution number for a use-case? If you find the highest resolution number as a reference, please explain the abstract contents.",
+    "original_query": "What is the trend for image resolution number for vision transformer use-case? if you find the highest resolution number as a reference, please explain the abstract contents."
+  },
+  {
+    "id": 27,
+    "ingredient_recall_original": 0.875,
+    "ingredient_recall_underspecified": 0.55,
+    "diff": 0.32499999999999996,
+    "query": "What are challenges in testing?",
+    "original_query": "What are open challenges in fuzzing?"
+  },
+  {
+    "id": 76,
+    "ingredient_recall_original": 0.875,
+    "ingredient_recall_underspecified": 0.55,
+    "diff": 0.32499999999999996,
+    "query": "What are the latest techniques and models being used in vision for detection, classification and segmentation",
+    "original_query": "What are the latest deep learning techniques and models being used in computer vision for corrosion (rust) detection, classification and segmentation"
+  },
+  {
+    "id": 9,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_underspecified": 0.6923076923076923,
+    "diff": 0.3076923076923077,
+    "query": "How can I make a generative model better at spatial reasoning for arranging objects in a 3D environment? I am currently creating a dataset with correct inputs and outputs using a top-down view of a scene, but this is tedious and I would prefer a more automated synthetic data generation approach. The goal is to fine-tune a model for this task. Use recent research to suggest a few automated approaches.",
+    "original_query": "My goal is to have a large generative machine learning model be good at reasoning with spatial dimensions to help with building 3d film scenes. This includes positioning and orienting objects well in a 3d environment. This could include use a large language model, a large multimodal model, or a large video generation model. The current approach I am taking is to develop a dataset with correct input and output using a top down view of a scene and position and orientating objects correctly. However, it is a manual tedious task and would prefer more automated synthetic generation approach. The end goal could be either to fine tune any of the models specified for this type of task. Ideally I would use a movie scene dataset which I have. There has been a lot of recent findings of the benefits of reasoning with chain-of-thought (CoT). Use recent research to suggest a few automated approaches."
+  },
+  {
+    "id": 83,
+    "ingredient_recall_original": 0.90625,
+    "ingredient_recall_underspecified": 0.625,
+    "diff": 0.28125,
+    "query": "what best approach to compare descriptions for similarity",
+    "original_query": "what best approach to compare research project descriptions for text similarity"
+  },
+  {
+    "id": 40,
+    "ingredient_recall_original": 0.9090909090909092,
+    "ingredient_recall_underspecified": 0.6363636363636364,
+    "diff": 0.2727272727272728,
+    "query": "Research on making a model that compresses and restores its latent vector further",
+    "original_query": "Research on realizing highly compressible vae by creating vae that further compresses and restores the latent vector of vae"
+  },
+  {
+    "id": 82,
+    "ingredient_recall_original": 0.7857142857142857,
+    "ingredient_recall_underspecified": 0.5714285714285714,
+    "diff": 0.2142857142857143,
+    "query": "methodologies for problems with classification",
+    "original_query": "potential methodologies for small dataset problems with classification"
+  },
+  {
+    "id": 3,
+    "ingredient_recall_original": 0.9166666666666666,
+    "ingredient_recall_underspecified": 0.7083333333333333,
+    "diff": 0.20833333333333337,
+    "query": "Are there any articles focusing on the use of mechanisms in ranking? Where the weights generated by the mechanism are fused as weights for the base ranking?",
+    "original_query": "Are there any articles focusing on the use of attention mechanisms in ranking? Where the weights generated by the attention mechanism are fused as weights for the base ranking?"
+  },
+  {
+    "id": 62,
+    "ingredient_recall_original": 0.8636363636363636,
+    "ingredient_recall_underspecified": 0.6590909090909091,
+    "diff": 0.20454545454545459,
+    "query": "how to improve retrieval with learning?",
+    "original_query": "how to improve chunk retrieval with contrastive learning?"
+  },
+  {
+    "id": 23,
+    "ingredient_recall_original": 0.7941176470588235,
+    "ingredient_recall_underspecified": 0.6176470588235294,
+    "diff": 0.17647058823529405,
+    "query": "find papers on topic about ambiguity and agent",
+    "original_query": "find papers on topic about ambiguity and llm agent"
+  },
+  {
+    "id": 38,
+    "ingredient_recall_original": 0.6333333333333333,
+    "ingredient_recall_underspecified": 0.4666666666666667,
+    "diff": 0.16666666666666663,
+    "query": "Can models learn new information when trained?",
+    "original_query": "Can LLMs learn new information when trained on supervised fine-tuning (SFT)?"
+  },
+  {
+    "id": 46,
+    "ingredient_recall_original": 0.9411764705882353,
+    "ingredient_recall_underspecified": 0.7941176470588235,
+    "diff": 0.1470588235294118,
+    "query": "Evaluating biases in language models.",
+    "original_query": "Evaluating race biases in Large Language Models."
+  },
+  {
+    "id": 48,
+    "ingredient_recall_original": 0.9545454545454546,
+    "ingredient_recall_underspecified": 0.8181818181818182,
+    "diff": 0.13636363636363635,
+    "query": "are there any selection algorithms that minimize distance?",
+    "original_query": "are there any diversity based coreset selection algorithm that minimizes l2 distance?"
+  },
+  {
+    "id": 44,
+    "ingredient_recall_original": 0.9666666666666667,
+    "ingredient_recall_underspecified": 0.8333333333333334,
+    "diff": 0.1333333333333333,
+    "query": "planning with models",
+    "original_query": "planning with Large Language Models"
+  },
+  {
+    "id": 35,
+    "ingredient_recall_original": 0.75,
+    "ingredient_recall_underspecified": 0.625,
+    "diff": 0.125,
+    "query": "What are the latest methods for generating 3D meshes from multiple images?",
+    "original_query": "What are the state-of-the-art work for 3D Mesh Generation from Multi-view 2d images?"
+  },
+  {
+    "id": 54,
+    "ingredient_recall_original": 0.8571428571428571,
+    "ingredient_recall_underspecified": 0.738095238095238,
+    "diff": 0.11904761904761907,
+    "query": "learning to rank, debiasing, correct the bias",
+    "original_query": "learning to rank, debiasing , correct the bias in cliclk"
+  }
+]

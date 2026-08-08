@@ -1,0 +1,11 @@
+### model
+model_name_or_path: base_models/DR-Tulu-8B
+adapter_name_or_path: ckpts/dr-tulu-8b-ambiguity-checker-all-data-sft
+template: qwen3_dr_tulu
+trust_remote_code: true
+
+### export
+export_dir: ckpts/dr-tulu-8b-ambiguity-checker-all-data-sft-merged
+export_size: 5
+export_device: cpu  # choices: [cpu, auto]
+export_legacy_format: false

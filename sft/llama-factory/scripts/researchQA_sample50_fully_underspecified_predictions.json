@@ -1,0 +1,252 @@
+[
+  {
+    "id": "174539437631169608-s8",
+    "query": "How do certain medications differ in their associations with a health condition, and what is known about the differences across studies for these drug classes?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437530047534-s3",
+    "query": "What are the additional benefits of preoperative testing beyond its role in determining the surgical approach?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437127211152-s28",
+    "query": "How do one group of people compare to another in terms of quality of life and injury prevalence?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438342207399-s2",
+    "query": "What are the structural and functional roles of a cellular structure in polarized growth and morphogenesis?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438851149556-s0",
+    "query": "How does the game reflect social decision-making processes in research?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific game being referred to\", \"research context or field of study\"], \"follow_up_questions\": [\"Which specific game are you asking about?\", \"In what research context or academic field should I interpret the game's reflection of social decision-making?\"]}"
+  },
+  {
+    "id": "174539437631204798-s5",
+    "query": "How do traits contribute to heat adaptation in different breeds?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438341872248-s11",
+    "query": "How is toxicity characterized in neurons, and what factors affect the level of toxicity?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437937521252-s4",
+    "query": "How do concentrations typically compare between fine and coarse particulate matter fractions in air?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436120034116-s6",
+    "query": "How does the presentation and recognition of lung involvement in pneumonia differ between patient groups?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438039013978-s19",
+    "query": "What is the relationship between high expression and disease progression as well as clinical outcomes in cancer?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436724177586-s7",
+    "query": "How do compounds influence the production of cytokines and mediators in cells?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436321113481-s11",
+    "query": "What evidence supports levels in fluid as a biomarker for injury severity and symptom duration following concussion?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435410364881-s17",
+    "query": "What are the key features and evaluation capabilities of the benchmark framework that make it suitable for comparing tools?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific benchmark framework name\"], \"follow_up_questions\": [\"Which benchmark framework are you referring to?\"]}"
+  },
+  {
+    "id": "174539437630757840-s9",
+    "query": "How do different temperatures affect the formation and longevity of trapping nets?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific trapping net type or application context\", \"temperature range of interest\"], \"follow_up_questions\": [\"What kind of trapping nets are you referring to?\", \"What temperature range should I focus on?\"]}"
+  },
+  {
+    "id": "174539437026127266-s0",
+    "query": "What are the advantages of one type of fixation device compared to another, and how do two-screw systems perform mechanically relative to one-screw systems in fracture fixation?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437733121188-s3",
+    "query": "How does instruction affect reading comprehension?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"instruction type or modality\", \"reading comprehension outcome being measured\"], \"follow_up_questions\": [\"What kind of instruction are you referring to?\", \"What specific reading comprehension outcome or measure are you interested in?\"]}"
+  },
+  {
+    "id": "174539437631203609-s2",
+    "query": "How do the expression patterns of proteins illustrate the response of animals to stress?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004616306-s12",
+    "query": "How does the interaction between two compounds influence the formation and characteristics of deposits during roasting?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539434801978769-s30",
+    "query": "Through what mechanisms do disclosures prompt firms to change their activities?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539439157214154-s0",
+    "query": "How have the guidelines for starting therapy in children changed since 2013, and what targets do these guidelines aim to support?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436622915105-s4",
+    "query": "How does the presence of a condition affect the overall risk of recurrence in patients with a heart opening compared to those without the condition?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435410172754-s1",
+    "query": "How do two methods combine to reduce correlation among models and improve prediction accuracy?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437631194279-s13",
+    "query": "What methods have been used to study changes after a medical event in animal models?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437630759707-s1",
+    "query": "How are species classified, and what characteristics are used for their identification?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437127214842-s14",
+    "query": "How do differences in training volume between groups influence strength gains in studies that do not control for training volume?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438241475791-s20",
+    "query": "What types of input data are needed to estimate carbon stocks?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437937523372-s10",
+    "query": "What methods have been used to assess comfort among users?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"user population/target group\", \"study setting/domain\"], \"follow_up_questions\": [\"Which user group or population are you referring to?\", \"In what context or setting should I focus on the comfort assessment methods?\"]}"
+  },
+  {
+    "id": "174539438444021882-s15",
+    "query": "What types and severities of adverse events have been observed in patients following their third and fourth doses of the vaccine?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004072111-s3",
+    "query": "How is the reaction utilized and enhanced during gas conditioning to increase the ratio for methanation?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435004072015-s8",
+    "query": "How do materials affect heating efficiency and product selectivity in a process?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435106415523-s12",
+    "query": "How do blending and the addition of various additives affect the strength and flexibility of films?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437127211056-s15",
+    "query": "How does blocking sensory signals pharmacologically affect the perception of effort when effort is measured independently from other exercise-related sensations?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539434801411914-s20",
+    "query": "How do threshold-based predictions work in warning systems, and what are their main advantages and limitations?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436421858192-s8",
+    "query": "How does the timing of sample collection affect the diagnostic accuracy of biomarkers?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435918238869-s28",
+    "query": "What are the effects of combining a treatment with another medication on pregnancy rates and hormone levels in women according to clinical studies?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435512234749-s2",
+    "query": "What are the main disadvantages and risks of using heating for machining materials?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437026245270-s3",
+    "query": "How does an organization classify and characterize different grades of premalignant lesions?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438750006117-s8",
+    "query": "What are the recommended methods to ensure ductility and prevent brittle failure in glued-in rod connections?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435917475829-s1",
+    "query": "How do properties affect the selective adsorption of ions by nanoparticles?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436321298798-s12",
+    "query": "How does the incidence of fractures differ depending on the site of the initial fracture?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438750004608-s26",
+    "query": "What is enrichment in files, and what practical advantages does it offer for modeling?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539437630965908-s10",
+    "query": "What is the evidence on the relationship between a condition and a blood marker in patients?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific condition\", \"specific blood marker\"], \"follow_up_questions\": [\"Which condition are you interested in?\", \"Which blood marker should I focus on?\"]}"
+  },
+  {
+    "id": "174539438544147896-s8",
+    "query": "What is the effect of treatment on newborn seropositivity compared to control groups based on pooled data from available studies?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539435612747593-s3",
+    "query": "How does a process affect the surface structure and phase composition of an alloy, and what are the resulting impacts on its hardness and wear resistance?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436119931241-s12",
+    "query": "How are methods for testing services classified, and what are the key distinctions that define each classification?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438444022753-s8",
+    "query": "What evidence supports the protective effect of vaccination against the development of a condition?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"specific condition being protected against\", \"vaccine type or disease being vaccinated against\"], \"follow_up_questions\": [\"Which condition are you asking about the protective effect of vaccination against?\", \"What vaccine or disease are you referring to?\"]}"
+  },
+  {
+    "id": "174539436925474144-s21",
+    "query": "How does high expression impact survival outcomes differently in cells compared to cells?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"needs clarification\", \"missing_information\": [\"cell type or cell category being compared\", \"specific survival outcome being measured\"], \"follow_up_questions\": [\"What cell types or cell categories are you comparing?\", \"What survival outcome are you referring to?\"]}"
+  },
+  {
+    "id": "174539436825193069-s0",
+    "query": "How do the mechanisms of a nutrient deficiency in people who do not eat certain foods contribute to elevated homocysteine levels and the associated health risks?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539438851458459-s2",
+    "query": "What are the indicators commonly used to measure competitive advantage in firms?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  },
+  {
+    "id": "174539436724624983-s4",
+    "query": "What evidence supports the accuracy of imaging in tumor volume delineation and its impact on treatment planning and prognosis in cancer?",
+    "prediction": "<think>\n\n</think>\n\n{\"label\": \"answerable\", \"missing_information\": [], \"follow_up_questions\": []}"
+  }
+]

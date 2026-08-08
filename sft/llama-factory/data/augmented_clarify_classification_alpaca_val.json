@@ -1,0 +1,222 @@
+[
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What are the analytical tools to assess the integrity and stability of these particles?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "Find papers discussing fabrication for imaging",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "AI on analysis",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "how can RRT-based path planning be adapted to handle narrow pathways",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "Please find papers on models and computer simulation of magnetic memory devices and related materials",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What are the best practices to protect software against vulnerabilities from third party libraries?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "Has there been any research on the ordering of datapoints for language models, such as easy-to-hard curriculum sequences, to make training more sample-efficient?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "what datasets are commonly used to evaluate methods",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What principles can be applied to curating feeds?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What reaction may contribute to the hetergeniety in imaging of cell?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "share papers on synthetic data generation, especially those that generate hard reasoning problems",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "How have advancements in biology and engineering techniques contributed to the development of more efficient protein expression systems?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "Scheduling of image data",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What are the biochemical analytical tools to assess the integrity and stability of lipid nanoparticles?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "How good are models at solving datasets using in-context learning?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "I want to learn about the historical development of LLM and provide relevant papers",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What interfaces have researchers developed for helping people optimize models for a task, and what are the biggest remaining user problems?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What are the main challenges in adapting models for data representation?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "In auditory speech perception using iEEG, I will use Temporal Response Function (TRF) to determine correlations between stimulus characteristics and characteristics of recorded neuronal activity. I would like to fully understand the different stages of data processing carried out, as well as the reasoning and hypotheses behind them.",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "Can you explain the significance of detection in research?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "share papers on synthetic data generation and hard reasoning problems",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "During pre-training, why is the embedding layer initialized randomly, rather than with pre-trained embeddings from existing models?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What metrics are typically used for evaluating privacy systems?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What are the most important open challenges in machine learning?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "How have publishing platforms impacted distribution?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What methods can be used to simulate black holes in relativity?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What are the differences between two types of language models?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "Can guidance without a classifier be extended beyond conditional diffusion models in image generation to natural language processing tasks?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What is the state of the art in emotion recognition?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "Have approaches been developed for providing assistance when people write queries?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What is a good semantic similarity measure that considers multiple inheritance cases of concepts?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What are some common designs for tools?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What are some systems papers that conduct an observational study instead of just interviews?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "Compare the various algorithms for compressing trees.",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What are some ways to overcome the heating issue?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "Can models learn new information when trained?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "Have anyone tried training with 4-bit quantization? Did you observe some performance difference?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "How can question generation be used to mitigate hallucination in language models?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What sampling techniques are used for yield estimation?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "What is the correlation between efficacy and progression?",
+    "output": "No"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "find papers on topic about ambiguity and agent",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "what are some datasets used for evaluating type inference?",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "has anyone propose metric like to judge whether a model has some knowledge",
+    "output": "Yes"
+  },
+  {
+    "instruction": "You are an ambiguity checker for domain-specific user queries submitted to a deep research agent. Given a query, determine whether additional information from the user is needed for the query to be answered clearly and uniquely.\nOutput yes if the query is underspecified and a clarification question is needed. Otherwise, output no. Output only a single token: `yes` or `no`.",
+    "input": "How do outside events affect projects?",
+    "output": "No"
+  }
+]

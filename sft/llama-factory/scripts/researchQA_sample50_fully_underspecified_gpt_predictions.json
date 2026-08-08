@@ -1,0 +1,843 @@
+[
+  {
+    "id": "174539437631169608-s8",
+    "query": "How do certain medications differ in their associations with a health condition, and what is known about the differences across studies for these drug classes?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific health condition being asked about",
+        "Which medications or drug classes are being compared",
+        "What type of association is of interest (e.g., risk, protective effect, severity, incidence, mortality)",
+        "Which studies, population, timeframe, or evidence base should be considered"
+      ],
+      "follow_up_questions": [
+        "Which health condition are you referring to?",
+        "Which medications or drug classes do you want compared?",
+        "What kind of association do you mean, such as increased risk, decreased risk, or effect on outcomes?",
+        "Do you want differences summarized across specific studies, a particular population, or a certain time period?"
+      ]
+    }
+  },
+  {
+    "id": "174539437530047534-s3",
+    "query": "What are the additional benefits of preoperative testing beyond its role in determining the surgical approach?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539437127211152-s28",
+    "query": "How do one group of people compare to another in terms of quality of life and injury prevalence?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific two groups of people being compared are not identified.",
+        "The meaning of 'quality of life' is not defined and could refer to different measures or domains.",
+        "The type of injuries or injury prevalence being considered is not specified.",
+        "The population, setting, time period, and context for the comparison are missing."
+      ],
+      "follow_up_questions": [
+        "Which two groups of people do you want to compare?",
+        "How are you defining or measuring quality of life?",
+        "What kind of injuries are you referring to?",
+        "In what population, setting, or time period should the comparison be made?"
+      ]
+    }
+  },
+  {
+    "id": "174539438342207399-s2",
+    "query": "What are the structural and functional roles of a cellular structure in polarized growth and morphogenesis?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific cellular structure being referred to is not identified.",
+        "The biological context is unspecified (e.g., organism, cell type, or system), which affects the structural and functional roles in polarized growth and morphogenesis."
+      ],
+      "follow_up_questions": [
+        "Which cellular structure are you referring to?",
+        "In what organism or cell type are you asking about polarized growth and morphogenesis?"
+      ]
+    }
+  },
+  {
+    "id": "174539438851149556-s0",
+    "query": "How does the game reflect social decision-making processes in research?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific game being referred to",
+        "The research context or study the user has in mind",
+        "What aspect of social decision-making they want explained (e.g., cooperation, competition, trust, fairness, strategic interaction)"
+      ],
+      "follow_up_questions": [
+        "Which game are you referring to?",
+        "Is there a particular research study, paper, or field you want this tied to?",
+        "What aspect of social decision-making are you interested in explaining?"
+      ]
+    }
+  },
+  {
+    "id": "174539437631204798-s5",
+    "query": "How do traits contribute to heat adaptation in different breeds?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The species or type of organism being discussed (e.g., cattle, dogs, plants)",
+        "Which specific breeds are being compared",
+        "What kind of traits are of interest (e.g., physical, genetic, behavioral, physiological)",
+        "The context or goal of the explanation (e.g., livestock productivity, pet care, evolutionary biology)"
+      ],
+      "follow_up_questions": [
+        "Which species or organism are you asking about?",
+        "Which breeds do you want to compare?",
+        "Are you asking about physical, genetic, behavioral, or physiological traits?",
+        "What is the context for the question, such as farming, breeding, or biology?"
+      ]
+    }
+  },
+  {
+    "id": "174539438341872248-s11",
+    "query": "How is toxicity characterized in neurons, and what factors affect the level of toxicity?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539437937521252-s4",
+    "query": "How do concentrations typically compare between fine and coarse particulate matter fractions in air?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539436120034116-s6",
+    "query": "How does the presentation and recognition of lung involvement in pneumonia differ between patient groups?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "Which patient groups are being compared (e.g., children vs adults, immunocompetent vs immunocompromised, elderly vs younger adults, outpatient vs hospitalized patients)",
+        "What is meant by 'presentation and recognition' (e.g., clinical symptoms, imaging findings, physical exam, diagnostic approach, or disease progression)",
+        "Whether the user wants differences for a specific type of pneumonia (e.g., bacterial, viral, aspiration, atypical, COVID-related)"
+      ],
+      "follow_up_questions": [
+        "Which patient groups would you like compared?",
+        "Do you mean presentation and recognition in terms of symptoms, physical exam, imaging, or diagnosis?",
+        "Are you asking about a specific type of pneumonia or pneumonia in general?"
+      ]
+    }
+  },
+  {
+    "id": "174539438039013978-s19",
+    "query": "What is the relationship between high expression and disease progression as well as clinical outcomes in cancer?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific gene, protein, biomarker, or molecular feature whose high expression is being asked about",
+        "The specific cancer type or disease context",
+        "Whether the user wants a general summary across cancers or evidence for a particular study, dataset, or marker"
+      ],
+      "follow_up_questions": [
+        "Which gene, protein, or biomarker are you referring to?",
+        "Which cancer type or disease context do you mean?",
+        "Are you asking for a general overview or for findings from a specific study or dataset?"
+      ]
+    }
+  },
+  {
+    "id": "174539436724177586-s7",
+    "query": "How do compounds influence the production of cytokines and mediators in cells?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "Which specific compound or class of compounds is being asked about",
+        "What type of cells are being referred to",
+        "Which cytokines or mediators are of interest",
+        "The biological context or condition (e.g., inflammation, infection, cancer, baseline cell signaling)",
+        "Whether the user wants a general mechanistic overview or effects in a specific experimental/system context"
+      ],
+      "follow_up_questions": [
+        "Which compound or class of compounds are you referring to?",
+        "What type of cells are you asking about?",
+        "Which cytokines or mediators do you want to focus on?",
+        "In what biological context or condition should this be considered?",
+        "Are you looking for a general mechanism or results from a specific experiment or system?"
+      ]
+    }
+  },
+  {
+    "id": "174539436321113481-s11",
+    "query": "What evidence supports levels in fluid as a biomarker for injury severity and symptom duration following concussion?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific fluid of interest is not specified (e.g., blood, serum, plasma, cerebrospinal fluid, saliva, or another biofluid).",
+        "The biomarker is not identified; 'levels in fluid' is ambiguous because many different concussion-related biomarkers exist.",
+        "The target population/context is unclear (e.g., athletes, children, adults, military personnel, acute vs. chronic concussion).",
+        "The type of evidence desired is unspecified (e.g., clinical studies, systematic reviews, animal studies, mechanistic evidence)."
+      ],
+      "follow_up_questions": [
+        "Which fluid are you referring to (blood, serum, plasma, CSF, saliva, etc.)?",
+        "Which biomarker do you mean?",
+        "What population or setting should the answer focus on?",
+        "Are you looking for evidence from individual studies, systematic reviews, or general clinical consensus?"
+      ]
+    }
+  },
+  {
+    "id": "174539435410364881-s17",
+    "query": "What are the key features and evaluation capabilities of the benchmark framework that make it suitable for comparing tools?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific benchmark framework being referred to",
+        "The domain or type of tools being compared (e.g., ML models, software testing tools, compilers, databases)",
+        "Any source document, paper, or prior context that defines the framework's features and evaluation capabilities"
+      ],
+      "follow_up_questions": [
+        "Which benchmark framework are you referring to?",
+        "What kinds of tools are you comparing with this framework?",
+        "Do you have a specific document, paper, or description of the framework you want summarized?"
+      ]
+    }
+  },
+  {
+    "id": "174539437630757840-s9",
+    "query": "How do different temperatures affect the formation and longevity of trapping nets?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The organism or system that produces the 'trapping nets' is not specified.",
+        "The type of trapping nets is unclear, since different fields use this term differently (e.g., fungal nematode-trapping nets, spider webs, aquatic feeding nets, physical/chemical network structures).",
+        "The context or domain of the question is missing, which is necessary to determine what mechanisms and evidence are relevant."
+      ],
+      "follow_up_questions": [
+        "What kind of trapping nets are you referring to, and which organism or system produces them?",
+        "In what context or field is this question being asked (for example, fungal biology, animal behavior, or materials science)?",
+        "Are you asking about how temperature affects the initial formation of the nets, their durability over time, or both?"
+      ]
+    }
+  },
+  {
+    "id": "174539437026127266-s0",
+    "query": "What are the advantages of one type of fixation device compared to another, and how do two-screw systems perform mechanically relative to one-screw systems in fracture fixation?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific types of fixation devices being compared are not identified.",
+        "The anatomical location or fracture type is not specified.",
+        "The context for 'performance mechanically' is unclear (e.g., stability, rotational control, load to failure, compression, complication rates).",
+        "The clinical or biomechanical setting is not specified (e.g., human clinical outcomes, cadaveric study, synthetic bone model, veterinary application)."
+      ],
+      "follow_up_questions": [
+        "Which fixation devices are you comparing?",
+        "For what bone, anatomical site, or fracture type is this question about?",
+        "Do you want a comparison in terms of biomechanical stability, clinical outcomes, complication rates, or ease of use?",
+        "Are you specifically asking about two-screw versus one-screw fixation within a particular device system?"
+      ]
+    }
+  },
+  {
+    "id": "174539437733121188-s3",
+    "query": "How does instruction affect reading comprehension?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The type of instruction being referred to (e.g., explicit phonics, vocabulary teaching, comprehension strategies, teacher-led discussion, digital instruction)",
+        "The population or learner group of interest (e.g., children, adolescents, adults, English language learners, struggling readers)",
+        "The context or purpose of the question (e.g., general educational theory, research summary, classroom practice, a specific assignment or study)"
+      ],
+      "follow_up_questions": [
+        "What kind of instruction are you referring to?",
+        "Which learners are you asking about?",
+        "Do you want a general explanation, a research-based summary, or guidance for a specific classroom context?"
+      ]
+    }
+  },
+  {
+    "id": "174539437631203609-s2",
+    "query": "How do the expression patterns of proteins illustrate the response of animals to stress?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific type of stress being referred to (e.g., heat, oxidative, starvation, infection, psychological stress)",
+        "The animal species or biological system of interest",
+        "The context or scale of the question (general conceptual explanation vs. specific experiment, tissue, or dataset)"
+      ],
+      "follow_up_questions": [
+        "What kind of stress are you referring to?",
+        "Which animal or biological system should the answer focus on?",
+        "Are you asking for a general explanation, or do you want interpretation of a specific study, tissue, or protein expression dataset?"
+      ]
+    }
+  },
+  {
+    "id": "174539435004616306-s12",
+    "query": "How does the interaction between two compounds influence the formation and characteristics of deposits during roasting?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific two compounds involved are not identified.",
+        "The type of roasting process or industrial/material context is not specified.",
+        "The kind of deposits of interest is unclear (e.g., chemical composition, morphology, adhesion, amount, melting behavior).",
+        "The operating conditions that affect deposit formation are not provided, such as temperature, atmosphere, feed composition, and time."
+      ],
+      "follow_up_questions": [
+        "Which two compounds are you referring to?",
+        "What roasting process or material system is this about?",
+        "What deposit characteristics do you want to understand (e.g., amount, composition, structure, stickiness, melting point)?",
+        "Under what roasting conditions should the interaction be considered (temperature, gas atmosphere, duration, feed composition)?"
+      ]
+    }
+  },
+  {
+    "id": "174539434801978769-s30",
+    "query": "Through what mechanisms do disclosures prompt firms to change their activities?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539439157214154-s0",
+    "query": "How have the guidelines for starting therapy in children changed since 2013, and what targets do these guidelines aim to support?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific type of therapy being referred to (for example, antiretroviral therapy, hormone therapy, behavioral therapy, etc.)",
+        "The clinical condition or disease context affecting the children",
+        "The guideline-issuing body or country/region, if relevant, since recommendations may differ across organizations and locations"
+      ],
+      "follow_up_questions": [
+        "What type of therapy are you referring to?",
+        "For which condition or disease in children are you asking about these guidelines?",
+        "Are you asking about guidelines from a specific organization or country?"
+      ]
+    }
+  },
+  {
+    "id": "174539436622915105-s4",
+    "query": "How does the presence of a condition affect the overall risk of recurrence in patients with a heart opening compared to those without the condition?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific 'condition' being referred to is not identified.",
+        "The type of 'heart opening' is not specified (for example, patent foramen ovale or another cardiac defect).",
+        "The type of recurrence is not defined (for example, stroke, transient ischemic attack, embolism, or another event).",
+        "The patient population or clinical context is not provided."
+      ],
+      "follow_up_questions": [
+        "Which specific condition are you referring to?",
+        "What do you mean by 'heart opening'—is it a patent foramen ovale or another condition?",
+        "What kind of recurrence are you asking about?",
+        "Is there a particular patient group or study context you want this compared in?"
+      ]
+    }
+  },
+  {
+    "id": "174539435410172754-s1",
+    "query": "How do two methods combine to reduce correlation among models and improve prediction accuracy?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific two methods being referred to are not identified.",
+        "The modeling context or algorithm family is unspecified (e.g., bagging, random forests, boosting, ensemble learning, statistics).",
+        "It is unclear whether the user wants a general conceptual explanation or an explanation tied to a particular model or paper."
+      ],
+      "follow_up_questions": [
+        "Which two methods are you referring to?",
+        "What modeling context or algorithm are these methods part of?",
+        "Do you want a general explanation or one tied to a specific technique, model, or source?"
+      ]
+    }
+  },
+  {
+    "id": "174539437631194279-s13",
+    "query": "What methods have been used to study changes after a medical event in animal models?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific medical event or condition being referred to",
+        "The type of animal model or species of interest",
+        "The kind of changes to be studied (e.g., behavioral, molecular, anatomical, physiological)",
+        "The time frame after the event being considered",
+        "Whether the user wants experimental methods, measurement techniques, or analytical approaches"
+      ],
+      "follow_up_questions": [
+        "Which medical event or condition do you mean?",
+        "What animal model or species are you interested in?",
+        "What kinds of post-event changes are you asking about (behavioral, molecular, anatomical, physiological, etc.)?",
+        "What time period after the event should be considered?",
+        "Are you asking about how researchers induce the event, how they measure changes afterward, or both?"
+      ]
+    }
+  },
+  {
+    "id": "174539437630759707-s1",
+    "query": "How are species classified, and what characteristics are used for their identification?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539437127214842-s14",
+    "query": "How do differences in training volume between groups influence strength gains in studies that do not control for training volume?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539438241475791-s20",
+    "query": "What types of input data are needed to estimate carbon stocks?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539437937523372-s10",
+    "query": "What methods have been used to assess comfort among users?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The domain or context of 'users' (e.g., product users, patients, vehicle occupants, software users, wearable device users, furniture users) is not specified.",
+        "The type of comfort being assessed is unclear (e.g., physical, thermal, ergonomic, psychological, usability-related).",
+        "The intended scope is ambiguous—whether the user wants assessment methods from a specific industry, study type, or time period."
+      ],
+      "follow_up_questions": [
+        "In what context are these users (e.g., software, healthcare, vehicles, furniture, wearables)?",
+        "What kind of comfort do you mean (e.g., physical, thermal, ergonomic, emotional)?",
+        "Are you looking for methods used in a specific field, product type, or research area?"
+      ]
+    }
+  },
+  {
+    "id": "174539438444021882-s15",
+    "query": "What types and severities of adverse events have been observed in patients following their third and fourth doses of the vaccine?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific vaccine being referred to",
+        "Which patient population or study context is intended",
+        "What time period or source of evidence should be used to assess adverse events"
+      ],
+      "follow_up_questions": [
+        "Which vaccine are you referring to?",
+        "Are you asking about a specific patient group or study population?",
+        "Should I base the answer on a particular study, clinical trial, or surveillance dataset?"
+      ]
+    }
+  },
+  {
+    "id": "174539435004072111-s3",
+    "query": "How is the reaction utilized and enhanced during gas conditioning to increase the ratio for methanation?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific reaction being referred to is not identified.",
+        "The gas conditioning context/process is unspecified (e.g., syngas cleanup, biogas upgrading, power-to-gas, coal gasification, steam reforming).",
+        "The ratio to be increased for methanation is not explicitly defined (commonly H2/CO or (H2-CO2)/(CO+CO2)).",
+        "It is unclear what is meant by 'utilized and enhanced'—whether the user wants operating conditions, catalysts, reactor design, equilibrium shifting, or process integration details."
+      ],
+      "follow_up_questions": [
+        "Which reaction are you referring to specifically?",
+        "What gas conditioning process or feed gas are you discussing?",
+        "Which ratio for methanation do you want to increase exactly?",
+        "Do you want a chemical/mechanistic explanation or practical process methods for enhancing it?"
+      ]
+    }
+  },
+  {
+    "id": "174539435004072015-s8",
+    "query": "How do materials affect heating efficiency and product selectivity in a process?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific process being referred to (e.g., microwave heating, induction heating, catalysis, pyrolysis, chemical reactor operation, food processing, etc.)",
+        "What 'materials' refers to in this context (e.g., reactor wall materials, catalyst materials, feedstock materials, susceptor materials, packaging materials)",
+        "The type of heating efficiency of interest (e.g., energy absorption, heat transfer rate, temperature uniformity, time to target temperature)",
+        "The product or products whose selectivity is being discussed",
+        "Operating conditions that affect both heating and selectivity (e.g., temperature, pressure, power source, atmosphere, residence time)"
+      ],
+      "follow_up_questions": [
+        "What specific process are you referring to?",
+        "Which materials do you want to compare or discuss?",
+        "What do you mean by heating efficiency in this case?",
+        "Which product selectivity are you asking about?",
+        "Are there particular operating conditions or a system setup to consider?"
+      ]
+    }
+  },
+  {
+    "id": "174539435106415523-s12",
+    "query": "How do blending and the addition of various additives affect the strength and flexibility of films?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The type of films/material system being discussed (e.g., polymer films, food packaging films, coatings, biodegradable films).",
+        "Which specific polymers/components are being blended.",
+        "What additives are being considered (e.g., plasticizers, fillers, compatibilizers, crosslinkers, stabilizers).",
+        "Whether the user wants a general conceptual explanation or material-specific effects with quantitative detail.",
+        "The conditions or application context, since processing method and intended use can change how strength and flexibility are affected."
+      ],
+      "follow_up_questions": [
+        "What kind of films are you referring to (for example, polymer packaging films, coatings, or biodegradable films)?",
+        "Which materials are being blended in the film?",
+        "What specific additives do you mean?",
+        "Do you want a general explanation, or are you asking about a particular film formulation or application?",
+        "Are there specific processing conditions or performance requirements you want to consider?"
+      ]
+    }
+  },
+  {
+    "id": "174539437127211056-s15",
+    "query": "How does blocking sensory signals pharmacologically affect the perception of effort when effort is measured independently from other exercise-related sensations?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539434801411914-s20",
+    "query": "How do threshold-based predictions work in warning systems, and what are their main advantages and limitations?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539436421858192-s8",
+    "query": "How does the timing of sample collection affect the diagnostic accuracy of biomarkers?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539435918238869-s28",
+    "query": "What are the effects of combining a treatment with another medication on pregnancy rates and hormone levels in women according to clinical studies?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific treatment being combined",
+        "The specific other medication",
+        "Which hormone levels are of interest",
+        "The patient population or condition being studied",
+        "The type of clinical studies or context to evaluate"
+      ],
+      "follow_up_questions": [
+        "Which treatment and which other medication are you referring to?",
+        "Which hormone levels would you like to know about?",
+        "What condition or patient group are these women being treated for?",
+        "Are you asking about a specific clinical study or a general summary of the evidence?"
+      ]
+    }
+  },
+  {
+    "id": "174539435512234749-s2",
+    "query": "What are the main disadvantages and risks of using heating for machining materials?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539437026245270-s3",
+    "query": "How does an organization classify and characterize different grades of premalignant lesions?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific organization or guideline being referenced",
+        "The type of premalignant lesions or the organ/tissue involved",
+        "Whether the user wants a general framework or a specific grading/classification system"
+      ],
+      "follow_up_questions": [
+        "Which organization or guideline are you referring to?",
+        "What type of premalignant lesions do you mean (for example, cervical, oral, colorectal, skin, or another type)?",
+        "Do you want a general explanation of grading criteria or the exact classification used by that organization?"
+      ]
+    }
+  },
+  {
+    "id": "174539438750006117-s8",
+    "query": "What are the recommended methods to ensure ductility and prevent brittle failure in glued-in rod connections?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539435917475829-s1",
+    "query": "How do properties affect the selective adsorption of ions by nanoparticles?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific properties being referred to are not identified (e.g., surface charge, size, shape, porosity, crystal structure, functional groups, hydrophobicity).",
+        "The type of nanoparticles is unspecified, and adsorption behavior depends strongly on the nanoparticle material and surface chemistry.",
+        "The ions of interest are not specified, and selectivity depends on ion charge, size, hydration energy, and chemical identity.",
+        "The environmental or solution conditions are missing, such as pH, ionic strength, solvent, temperature, and presence of competing ions.",
+        "It is unclear whether the user wants a general conceptual explanation or a system-specific mechanism."
+      ],
+      "follow_up_questions": [
+        "Which nanoparticle properties do you want to focus on?",
+        "What type of nanoparticles are you referring to?",
+        "Which ions are being selectively adsorbed?",
+        "Under what solution conditions (e.g., pH, ionic strength, solvent, temperature) is the adsorption occurring?",
+        "Are you looking for a general explanation or for a specific nanoparticle–ion system?"
+      ]
+    }
+  },
+  {
+    "id": "174539436321298798-s12",
+    "query": "How does the incidence of fractures differ depending on the site of the initial fracture?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The population or patient group being discussed (e.g., children, older adults, postmenopausal women, general population)",
+        "Whether the question refers to incidence of initial fractures at different anatomical sites or incidence of subsequent/recurrent fractures after an initial fracture",
+        "The specific outcome and time frame of interest (e.g., absolute incidence, relative risk, short-term vs long-term follow-up)",
+        "The comparison sites of the initial fracture being considered (e.g., hip, wrist, vertebral, humerus)"
+      ],
+      "follow_up_questions": [
+        "Which population are you asking about?",
+        "Do you mean the incidence of subsequent fractures after an initial fracture, or the incidence of initial fractures by body site?",
+        "Which initial fracture sites would you like to compare?",
+        "What time frame or measure of incidence are you interested in?"
+      ]
+    }
+  },
+  {
+    "id": "174539438750004608-s26",
+    "query": "What is enrichment in files, and what practical advantages does it offer for modeling?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The domain or context of 'files' is unclear (e.g., statistics/data analysis, machine learning feature engineering, chemistry/materials, databases, or another field).",
+        "The meaning of 'enrichment' depends on the context, so the intended technical definition is not specified.",
+        "The type of 'modeling' being referred to is not defined."
+      ],
+      "follow_up_questions": [
+        "In what context are you using the term 'enrichment in files'?",
+        "Are you asking about data files used in statistics or machine learning, or a different domain?",
+        "What kind of modeling do you mean, and what application are you working on?"
+      ]
+    }
+  },
+  {
+    "id": "174539437630965908-s10",
+    "query": "What is the evidence on the relationship between a condition and a blood marker in patients?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific medical condition being asked about",
+        "The specific blood marker being asked about",
+        "The patient population or disease context, if not implied",
+        "The type of evidence or outcome of interest (e.g., association, causation, diagnosis, prognosis, severity, treatment response)"
+      ],
+      "follow_up_questions": [
+        "Which medical condition are you referring to?",
+        "Which blood marker do you mean?",
+        "What patient population are you asking about?",
+        "Are you interested in diagnostic, prognostic, causal, or treatment-related evidence?"
+      ]
+    }
+  },
+  {
+    "id": "174539438544147896-s8",
+    "query": "What is the effect of treatment on newborn seropositivity compared to control groups based on pooled data from available studies?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific treatment being evaluated is not identified.",
+        "The disease/condition or antibody/pathogen related to 'newborn seropositivity' is not specified.",
+        "The set of 'available studies' or the source of the pooled data (e.g., a particular meta-analysis/systematic review) is not provided.",
+        "The comparison metric of interest is unclear (e.g., risk ratio, odds ratio, absolute risk difference)."
+      ],
+      "follow_up_questions": [
+        "Which treatment are you referring to?",
+        "For which disease, infection, or antibody outcome is newborn seropositivity being measured?",
+        "Are you referring to a specific meta-analysis, systematic review, or group of studies?",
+        "What effect measure would you like reported from the pooled data (e.g., risk ratio, odds ratio, or absolute difference)?"
+      ]
+    }
+  },
+  {
+    "id": "174539435612747593-s3",
+    "query": "How does a process affect the surface structure and phase composition of an alloy, and what are the resulting impacts on its hardness and wear resistance?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific process being referred to",
+        "The type and composition of the alloy",
+        "Relevant processing conditions such as temperature, duration, pressure, atmosphere, or treatment parameters",
+        "Whether the user wants a general explanation or details for a specific experimental/system context"
+      ],
+      "follow_up_questions": [
+        "Which process are you referring to?",
+        "What alloy are you asking about?",
+        "Do you have specific processing conditions or treatment parameters?",
+        "Are you looking for a general explanation or for results in a specific case?"
+      ]
+    }
+  },
+  {
+    "id": "174539436119931241-s12",
+    "query": "How are methods for testing services classified, and what are the key distinctions that define each classification?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The domain or context of 'services' is not specified (e.g., software/web services, healthcare services, public services, service-oriented architecture).",
+        "The classification framework being asked about is unclear, since methods for testing services can be categorized in different ways depending on the field or source.",
+        "It is not clear whether the user wants an industry-standard taxonomy, an academic classification, or classifications from a specific document/course/textbook."
+      ],
+      "follow_up_questions": [
+        "What kind of services are you referring to (e.g., software/web services, healthcare, public services)?",
+        "Are you asking about a specific testing/classification framework or source?",
+        "Do you want a general overview of service testing classifications or the classifications used in a particular field or textbook?"
+      ]
+    }
+  },
+  {
+    "id": "174539438444022753-s8",
+    "query": "What evidence supports the protective effect of vaccination against the development of a condition?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "Which vaccination is being referred to",
+        "Which specific condition or disease outcome is being referred to",
+        "What type of evidence is desired (e.g., clinical trials, observational studies, mechanistic evidence, meta-analyses)",
+        "Whether a particular population, age group, or setting is intended"
+      ],
+      "follow_up_questions": [
+        "Which vaccine are you asking about?",
+        "What specific condition are you referring to?",
+        "Are you looking for clinical trial evidence, observational evidence, or a general summary of the evidence?",
+        "Is there a particular population or age group you want the answer to focus on?"
+      ]
+    }
+  },
+  {
+    "id": "174539436925474144-s21",
+    "query": "How does high expression impact survival outcomes differently in cells compared to cells?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific gene, protein, or biomarker whose high expression is being evaluated",
+        "The two cell types or groups being compared, since both are referred to only as 'cells'",
+        "The survival outcome of interest (for example overall survival, progression-free survival, disease-free survival, or cell survival/viability)",
+        "The biological or clinical context, such as cancer type, tissue, organism, or experimental setting"
+      ],
+      "follow_up_questions": [
+        "Which gene, protein, or biomarker do you mean by 'high expression'?",
+        "What are the two specific cell types or groups you want to compare?",
+        "What survival outcome are you referring to?",
+        "In what disease, tissue, or experimental context should this be evaluated?"
+      ]
+    }
+  },
+  {
+    "id": "174539436825193069-s0",
+    "query": "How do the mechanisms of a nutrient deficiency in people who do not eat certain foods contribute to elevated homocysteine levels and the associated health risks?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539438851458459-s2",
+    "query": "What are the indicators commonly used to measure competitive advantage in firms?",
+    "label": "answerable",
+    "raw": {
+      "label": "answerable",
+      "missing_information": [],
+      "follow_up_questions": []
+    }
+  },
+  {
+    "id": "174539436724624983-s4",
+    "query": "What evidence supports the accuracy of imaging in tumor volume delineation and its impact on treatment planning and prognosis in cancer?",
+    "label": "needs clarification",
+    "raw": {
+      "label": "needs clarification",
+      "missing_information": [
+        "The specific cancer type or tumor site is not specified, and evidence varies substantially by disease (e.g., glioma, head and neck, lung, prostate).",
+        "The imaging modality or modalities of interest are not specified (e.g., CT, MRI, PET/CT, diffusion MRI), which affects the relevant evidence base.",
+        "The clinical context is unclear, such as whether the question concerns diagnosis, radiotherapy target delineation, surgery planning, response assessment, or prognosis.",
+        "The type of evidence desired is not defined, such as randomized trials, observational studies, systematic reviews, technical validation studies, or clinical guidelines.",
+        "The intended scope of prognosis is unclear, including whether the user wants local control, survival, recurrence, toxicity, or treatment response outcomes."
+      ],
+      "follow_up_questions": [
+        "Which cancer type or tumor site are you asking about?",
+        "Which imaging modality or modalities should be considered?",
+        "Are you asking specifically about radiotherapy target delineation, surgical planning, diagnosis, or response assessment?",
+        "What kind of evidence do you want summarized: systematic reviews, clinical trials, guidelines, or general literature?",
+        "Which outcomes matter most for prognosis or treatment planning: survival, local control, recurrence, toxicity, or response?"
+      ]
+    }
+  }
+]

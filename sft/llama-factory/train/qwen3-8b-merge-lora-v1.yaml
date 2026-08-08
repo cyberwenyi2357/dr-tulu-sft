@@ -1,0 +1,11 @@
+### model
+model_name_or_path: Qwen/Qwen3-8B
+adapter_name_or_path: ckpts/qwen3-8B-sft-final_v1
+template: qwen3
+trust_remote_code: true
+
+### export
+export_dir: ckpts/qwen3-8B-sft-final_v1-merged
+export_size: 5
+export_device: cpu  # choices: [cpu, auto]
+export_legacy_format: false

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "ingredient_recall_original": 0.9230769230769231,
+    "ingredient_recall_without_preference": 0.34615384615384615,
+    "diff": 0.576923076923077,
+    "query": "Teach me about the latest progress on diagnosis of VLM models like CLIP.",
+    "clarified_query": "Teach me about all latest progress on diagnosis, such as counterfactual explanation, of VLM models like CLIP"
+  },
+  {
+    "id": 26,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_without_preference": 0.8500000000000001,
+    "diff": 0.1499999999999999,
+    "query": "What is the trend for image resolution in vision transformer use cases? If you find the highest resolution as a reference, please explain the abstract contents.",
+    "clarified_query": "What is the trend for image resolution number for vision transformer use-case? if you find the highest resolution number as a reference, please explain the abstract contents."
+  },
+  {
+    "id": 13,
+    "ingredient_recall_original": 1.0,
+    "ingredient_recall_without_preference": 0.8636363636363636,
+    "diff": 0.13636363636363635,
+    "query": "Can you find papers that discuss expert iteration for aligning language models?",
+    "clarified_query": "Can you find me papers that discuss expert iteration for aligning language models?"
+  }
+]

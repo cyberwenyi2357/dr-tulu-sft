@@ -37,14 +37,10 @@ USAGE = (
 
 def main():
     from . import launcher
-    from .api.app import run_api
-    from .chat.chat_model import run_chat
-    from .eval.evaluator import run_eval
     from .extras import logging
     from .extras.env import VERSION, print_env
     from .extras.misc import find_available_port, get_device_count, is_env_enabled, use_ray
     from .train.tuner import export_model, run_exp
-    from .webui.interface import run_web_demo, run_web_ui
 
     logger = logging.get_logger(__name__)
 
@@ -61,20 +57,35 @@ def main():
     )
 
     COMMAND_MAP = {
-        "api": run_api,
-        "chat": run_chat,
         "env": print_env,
-        "eval": run_eval,
         "export": export_model,
         "train": run_exp,
-        "webchat": run_web_demo,
-        "webui": run_web_ui,
         "version": partial(print, WELCOME),
         "help": partial(print, USAGE),
     }
 
     command = sys.argv.pop(1) if len(sys.argv) > 1 else "help"
-    if command == "train" and (is_env_enabled("FORCE_TORCHRUN") or (get_device_count() > 1 and not use_ray())):
+    if command == "api":
+        from .api.app import run_api
+
+        run_api()
+    elif command == "chat":
+        from .chat.chat_model import run_chat
+
+        run_chat()
+    elif command == "eval":
+        from .eval.evaluator import run_eval
+
+        run_eval()
+    elif command == "webchat":
+        from .webui.interface import run_web_demo
+
+        run_web_demo()
+    elif command == "webui":
+        from .webui.interface import run_web_ui
+
+        run_web_ui()
+    elif command == "train" and (is_env_enabled("FORCE_TORCHRUN") or (get_device_count() > 1 and not use_ray())):
         # launch distributed training
         nnodes = os.getenv("NNODES", "1")
         node_rank = os.getenv("NODE_RANK", "0")
